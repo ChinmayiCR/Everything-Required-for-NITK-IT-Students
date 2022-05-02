@@ -1,0 +1,27 @@
+m = 6
+n = 6
+o = 6
+a = 4
+ 
+ 
+The Marginal Distributions table of X 
+ 
+Value of Ux is = 1.3333333333333335
+ 
+The Marginal Distributions table of Y  
+ 
+y     0						 1						 2						 3						 4						 5						 6
+h(y)  0.16176470588235295    0.43137254901960786    0.32352941176470590    0.07843137254901961    0.00490196078431373
+ 
+ 
+ 
+f(0) = 0.16176470588235295
+f(1) = 0.43137254901960786
+f(2) = 0.32352941176470590
+f(3) = 0.07843137254901961
+f(4) = 0.00490196078431373
+Value of Uy is = 1.3333333333333335
+ 
+Value of E(XY) is = 1.411764705882353
+ 
+The covariance of the random variables X and Y is E(XY)-Ux * Uy = -0.3660130718954251

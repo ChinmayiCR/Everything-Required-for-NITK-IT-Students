@@ -1,0 +1,6 @@
+invalid input 
+output for test case  2 is 0.247058823529
+output for test case  3 is 0.681818181818
+output for test case  4 is 0.0943396226415
+output for test case  5 is 0.417721518987
+output for test case  6 is 0.077519379845

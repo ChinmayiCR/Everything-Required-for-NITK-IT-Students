@@ -1,0 +1,16 @@
+Joint Probability Distribution Table with row wise sum and columan wise sum:y/x    1.00    3.00    sum
+1.0    0.40    0.60    1.00
+ 
+2.0    0.50    0.50    1.00
+ 
+sum    0.90    1.10
+ 
+The Marginal Distribution table of X 
+x     1.0     3.0
+g(x)  0.90    1.10
+Value of Ux: 4.2
+The Marginal Distribution table of Y: 
+y     1.0     2.0
+g(y)  1.00    1.00
+Value of Uy is: 3.0
+g (X, Y) = 2XY : 12.399999999999999

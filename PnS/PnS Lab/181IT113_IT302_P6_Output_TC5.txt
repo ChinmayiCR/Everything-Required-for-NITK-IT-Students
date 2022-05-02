@@ -1,0 +1,27 @@
+m = 4
+n = 4
+o = 4
+a = 4
+ 
+ 
+The Marginal Distributions table of X 
+ 
+Value of Ux is = 1.3333333333333333
+ 
+The Marginal Distributions table of Y  
+ 
+y     0						 1						 2						 3						 4
+h(y)  0.14141414141414144    0.45252525252525255    0.33939393939393936    0.06464646464646465    0.00202020202020202
+ 
+ 
+ 
+f(0) = 0.14141414141414144
+f(1) = 0.45252525252525255
+f(2) = 0.33939393939393936
+f(3) = 0.06464646464646465
+f(4) = 0.00202020202020202
+Value of Uy is = 1.3333333333333333
+ 
+Value of E(XY) is = 1.4545454545454544
+ 
+The covariance of the random variables X and Y is E(XY)-Ux * Uy = -0.3232323232323233

@@ -1,0 +1,5 @@
+n = 4
+x = $$
+y = 55
+z = 10
+x is not a number

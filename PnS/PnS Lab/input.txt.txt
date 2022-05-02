@@ -1,0 +1,36 @@
+Text Case-1
+4
+John Tom Jeff Pat
+10 30 10 40
+200 300 400 500
+John
+Text Case-2
+3
+Mango Orange Apple
+30 35 35
+200 300 400
+Apple
+Text Case-3
+2
+Orange Apple
+25 75 
+250 350
+Apple
+Text Case-4
+5
+Orange Apple Grape Mango Cherry
+10 30 10 20 30
+200 300 400 500 600
+Grape
+Text Case-5
+N =3
+Orange Apple Grape
+25 20 55 
+200 300 400
+Grape
+Text Case-6
+3
+Orange Apple Grape
+10 30 60 
+700 600 500
+Orange
