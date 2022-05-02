@@ -1,0 +1,140 @@
+p chosen by third party: 467
+q chosen by third party: 479
+Calculated value of n: 223693
+Connection from: ('192.168.100.5', 62954)
+***********************************************
+
+Round 1:
+Challenge, c : 0
+ Public key of claimant received: 1
+Witness from claimant received: 121 
+Response from claimant receieved: 11
+(y*y mod n) = 121
+ ((x* v^c) mod n) = 121 
+User passes Fiat Shamir Protocol
+***********************************************
+
+Round 2:
+Challenge, c : 0
+ Public key of claimant received: 1
+Witness from claimant received: 121 
+Response from claimant receieved: 11
+(y*y mod n) = 121
+ ((x* v^c) mod n) = 121 
+User passes Fiat Shamir Protocol
+***********************************************
+The final result of Fiat-Shamir Authentication: VERIFIED
+
+
+p chosen by third party: 929
+q chosen by third party: 937
+Calculated value of n: 870473
+Connection from: ('192.168.100.5', 62974)
+***********************************************
+
+Round 1:
+Challenge, c : 0
+ Public key of claimant received: 484
+Witness from claimant received: 225 
+Response from claimant receieved: 15
+(y*y mod n) = 225
+ ((x* v^c) mod n) = 225 
+User passes Fiat Shamir Protocol
+***********************************************
+
+Round 2:
+Challenge, c : 1
+ Public key of claimant received: 484
+Witness from claimant received: 225 
+Response from claimant receieved: 330
+(y*y mod n) = 108900
+ ((x* v^c) mod n) = 108900 
+User passes Fiat Shamir Protocol
+***********************************************
+The final result of Fiat-Shamir Authentication: VERIFIED
+
+
+p chosen by third party: 727
+q chosen by third party: 733
+Calculated value of n: 532891
+Connection from: ('192.168.100.5', 62997)
+***********************************************
+
+Round 1:
+Challenge, c : 1
+ Public key of claimant received: 1296
+Witness from claimant received: 10201 
+Response from claimant receieved: 3636
+(y*y mod n) = 431112
+ ((x* v^c) mod n) = 431112 
+User passes Fiat Shamir Protocol
+***********************************************
+
+Round 2:
+Challenge, c : 1
+ Public key of claimant received: 1296
+Witness from claimant received: 10201 
+Response from claimant receieved: 3636
+(y*y mod n) = 431112
+ ((x* v^c) mod n) = 431112 
+User passes Fiat Shamir Protocol
+***********************************************
+The final result of Fiat-Shamir Authentication: VERIFIED
+
+
+p chosen by third party: 727
+q chosen by third party: 733
+Calculated value of n: 532891
+Connection from: ('192.168.100.5', 63012)
+***********************************************
+
+Round 1:
+Challenge, c : 1
+ Public key of claimant received: 36
+Witness from claimant received: 4 
+Response from claimant receieved: 3197358
+(y*y mod n) = 144
+ ((x* v^c) mod n) = 144 
+User passes Fiat Shamir Protocol
+***********************************************
+
+Round 2:
+Challenge, c : 1
+ Public key of claimant received: 36
+Witness from claimant received: 4 
+Response from claimant receieved: 3197358
+(y*y mod n) = 144
+ ((x* v^c) mod n) = 144 
+User passes Fiat Shamir Protocol
+***********************************************
+The final result of Fiat-Shamir Authentication: VERIFIED
+
+
+p chosen by third party: 89
+q chosen by third party: 97
+Calculated value of n: 8633
+Connection from: ('192.168.100.5', 63025)
+***********************************************
+
+Round 1:
+Challenge, c : 1
+ Public key of claimant received: 4
+Witness from claimant received: 2809 
+Response from claimant receieved: 457655
+(y*y mod n) = 2603
+ ((x* v^c) mod n) = 2603 
+User passes Fiat Shamir Protocol
+***********************************************
+
+Round 2:
+Challenge, c : 0
+ Public key of claimant received: 4
+Witness from claimant received: 2809 
+Response from claimant receieved: 53
+(y*y mod n) = 2809
+ ((x* v^c) mod n) = 2809 
+User passes Fiat Shamir Protocol
+***********************************************
+The final result of Fiat-Shamir Authentication: VERIFIED
+
+

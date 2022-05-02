@@ -1,0 +1,91 @@
+???
+insan
+bisiklet
+araba
+motosiklet
+uçak
+otobüs
+tren
+kamyon
+gemi
+trafik lambası
+yangın musluğu
+???
+dur işareti
+parkmetre
+oturma bankı
+kuş
+kedi
+köpek
+at
+kuzu
+inek
+fil
+ayı
+zebra
+zurafa
+???
+çanta
+şemsiye
+???
+???
+el çantası
+kravat
+bavul
+frizbi
+kayaklar
+kayak
+top
+kaykay
+bezbol şapkası
+bezbol topu
+kaykay
+sörf tahtası
+tenis raketi
+şişe
+???
+şarap bardağı
+bardak
+çatal
+bıçak
+kaşık
+tabak
+muz
+elma
+sandwich
+portakal
+brokoli
+havuç
+hot dog
+pizza
+donut
+kek
+sandalye
+kanape
+bitki
+yatak
+???
+yemek masası
+???
+???
+tuvalet
+???
+televizyon
+laptop
+fare
+kumanda
+klavye
+telefon
+mikrodalga
+fırın
+tost makinesi
+lavabo
+buzdolabı
+???
+kitap
+saat
+vazo
+makas
+oyuncak ayı
+fön makinesi
+diş fırçası

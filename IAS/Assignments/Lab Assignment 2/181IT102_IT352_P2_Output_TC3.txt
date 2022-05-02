@@ -1,0 +1,12 @@
+Test Condition 3: Deny packets with destination IP 10.100.53.1 and destination port 443
+Test Case # 3
+IP Version: IPv4
+Source MAC: 30.9c.23.50.ce.c0
+Destination MAC: ff.ff.ff.ff.ff.ff
+Source IP: 10.100.55.138
+Destination IP: 255.255.255.255
+Source Port: 61980
+Destination Port: 1947
+Protocol: UDP
+Allow Packet
+

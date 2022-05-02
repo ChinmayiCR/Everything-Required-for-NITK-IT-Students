@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.mimariyazilim.digigoz1.examples.digigoz.customview.AutoFitTextureView android:id="@id/texture" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" />
+    <com.mimariyazilim.digigoz1.examples.digigoz.customview.RecognitionScoreView android:id="@id/results" android:layout_width="fill_parent" android:layout_height="112.0dip" android:layout_alignParentTop="true" />
+    <com.mimariyazilim.digigoz1.examples.digigoz.customview.OverlayView android:id="@id/debug_overlay" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentBottom="true" />
+</RelativeLayout>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Anlasilmadi">Anlaşılmadı</string>
+    <string name="Evet">Evet</string>
+    <string name="Hayir">Hayır</string>
+    <string name="Open">Yan menü kapatmak için sola kaydırın</string>
+    <string name="S1_kesfetButton">KEŞFET</string>
+    <string name="S1_objeAraButton">ARA</string>
+    <string name="S1_yaziOkumaGecisButton">Yazı Okuma</string>
+    <string name="S2_kopyalaButton">Kopyala</string>
+    <string name="S2_kopyalandi_bildirim">Kopyalandi</string>
+    <string name="S2_metinKopyalamak">Yazıyı kopyalamak istiyor musun?</string>
+    <string name="S2_renkTanimaGecisButton">Renk tanıma</string>
+    <string name="S2_yaziOkuButton">OKU</string>
+    <string name="S2_yaziOkuDurdurButton">DURDUR</string>
+    <string name="S3_objeTanımaGecisButton">Obje Tanıma</string>
+    <string name="S3_renkOkuButton">Renk Oku</string>
+    <string name="SES_Hizi_arttirildi">Ses hızı arttırıldı</string>
+    <string name="SES_Hizi_azaltildi">Ses hızı azaltıldı</string>
+    <string name="Taniyamiyorum">Henüz bu nesneyi tanıyamıyorum , başka bir nesne deneyin</string>
+    <string name="activity_name_detection">DijiGoz</string>
+    <string name="anaEkranaDonmeTalimati">Ana Ekrana dönmek için iki parmağınızla sola kaydırın.</string>
+    <string name="app_name">DijiGoz</string>
+    <string name="bize_ulasin">Bize ulaşmak için, mimariyazilim@gmail.com , adresine mail atabilirsiniz.</string>
+    <string name="bizeulasinmenu">Bize Ulaşın</string>
+    <string name="bulunamadi">Bulunamadı etrafı gösterir misin.</string>
+    <string name="color_BLUE">mavi</string>
+    <string name="color_Cyan">turkuaz</string>
+    <string name="color_GREEN">yeşil</string>
+    <string name="color_ORANGE">turuncu</string>
+    <string name="color_PINK">pembe</string>
+    <string name="color_RED">kırmızı</string>
+    <string name="color_YELLOW">sarı</string>
+    <string name="gorunuyor">Görünüyor.</string>
+    <string name="kullanim_kilavuzu">Hoş Geldiniz.Uygulama 3 Ekrandan oluşur ve obje tanıma ekranıyla açılır, ekranda 2 fonksiyonel tuş vardır. Etraftaki objeleri taramak için keşfet tuşuna basmalısınız. Yazı Oku tuşuna basarak yazı okuma modunu açabilirsiniz, yazı okuma ekranında 4 tuş vardır, Oku,Durdur, Kopyala, ve Renk tanımaya geçiş tuşları. Oku tuşu ekranda gördüğü yazıları okur,eğer düzgün olmadığını düşünüyorsanız Dur tuşuna basarak durdurabilir ve tekrar deneyebilirsiniz. Metin okuma modu görülen tüm metinleri okuduğundan okumak istediğiniz yazıya tuttuğunuzdan emin olun. Metni kopyalamak isterseniz okunduktan sonra kopyala Tuşuna basabilirsiniz. Renk okuma moduna geçmek için Renk tanıma tuşuna basın. Renk okuma modu ekranında 2 tuş vardır, bunlar: Renk Oku ve Obje tanıma geçiş tuşudur.Renk oku tuşuna basarak rengi tespit edebilirsiniz. Kamerayı çok yaklaştırmamaya çalışın, yaklaşık 20cm mesafeden beyaz ışıklı ortamda en iyi sonuçları alabilirsiniz. Obje tanıma modu tuşuyla obje tanıma moduna geçebilirsiniz. Sol üst köşeden menüyü açabilirsiniz. Ana ekranda açılır menu bulunur, içerisindeki İlk button ses ayarı butonudur, 2 farklı ses hızı ayarı vardır. ikinci butona basarak bu metini tekrar dinleyebilirsiniz.üçüncü butona basarak bize e-mail ile ulaşabilirsiniz. iyi günler.</string>
+    <string name="kullanimkilavuzumenu">Sesli Kullanım Kılavuzu</string>
+    <string name="nav_bar_anaekranaDon">Ana Ekrana Don</string>
+    <string name="nesne_taninanmiyor">Henüz bu nesneyi tanıyamıyorum , başka bir nesne deneyin!</string>
+    <string name="nesne_tarama_gecis">Nesne tanıma moduna geçiliyor.</string>
+    <string name="okumahiziayarimenu">Okuma hızı ayarı</string>
+    <string name="ortada">Karşıda</string>
+    <string name="renk_tanima_gecis">Renk tanıma moduna geçiliyor</string>
+    <string name="sagda">Sağda</string>
+    <string name="solda">Solda</string>
+    <string name="yazi_bulunamadi">Yazı Yok</string>
+    <string name="yazi_okuma_gecis">Yazı okuma moduna geçildi.</string>
+</resources>

@@ -1,0 +1,15 @@
+Packet in raw form: 
+b'\x00PV\xfb\xb2~\x00\x0c)\xd1\x06H\x08\x00E\x00\x00(\x00\x01\x00\x00@\x06\x89\xdf\x14\x14\x14\x14dddd\x00\x0b\x00P\x00\x00\x00\x00\x00\x00\x00\x00P\x02 \x00\x9e\x97\x00\x00'
+
+Packet in Human Understandable form: 
+None
+
+IP Version: IPv4
+Destination MAC: 00:50:56:FB:B2:7E
+Source MAC: 00:0C:29:D1:06:48
+Source IP: 20.20.20.20
+Destination IP: 100.100.100.100
+Source Port: 11
+Destination Port: 80
+Protocol: TCP
+Deny Packet

@@ -1,0 +1,12 @@
+Test Condition 2: Deny packets with destination port 80
+Test Case # 2
+IP Version: IPv4
+Source MAC: 50.eb.1a.90.61.32
+Destination MAC: 6c.c2.17.77.00.a6
+Source IP: 54.72.51.202
+Destination IP: 10.100.53.123
+Source Port: 8282
+Destination Port: 1949
+Protocol: TCP
+Allow Packet
+

@@ -1,0 +1,148 @@
+p value chosen by third party: 467 
+q value chosen by third party: 479
+Calculated n value: 223693
+Private key of claimant: 223694
+ Public key of claimant: 1
+Value of public key MUST be less than n-1
+***********************************************
+
+Round 1: 
+Witness, x: 121
+Random value selected: 11
+Acknowledgment to sent public key: 1
+Challenge received by verifier: 0
+Response, y: 11
+Received from verifier: VERIFIED
+***********************************************
+
+Round 2: 
+Witness, x: 121
+Random value selected: 11
+Acknowledgment to sent public key: 1
+Challenge received by verifier: 0
+Response, y: 11
+Received from verifier: VERIFIED
+***********************************************
+Result of Fiat-Shamir Authentication: VERIFIED
+
+Test fails:
+ value of r and s must be less than n-1 at all rounds
+
+
+p value chosen by third party: 929 
+q value chosen by third party: 937
+Calculated n value: 870473
+Private key of claimant: 22
+ Public key of claimant: 484
+***********************************************
+
+Round 1: 
+Witness, x: 225
+Random value selected: 15
+Acknowledgment to sent public key: 1
+Challenge received by verifier: 0
+Response, y: 15
+Received from verifier: VERIFIED
+***********************************************
+
+Round 2: 
+Witness, x: 225
+Random value selected: 15
+Acknowledgment to sent public key: 1
+Challenge received by verifier: 1
+Response, y: 330
+Received from verifier: VERIFIED
+***********************************************
+Result of Fiat-Shamir Authentication: VERIFIED
+
+
+p value chosen by third party: 727 
+q value chosen by third party: 733
+Calculated n value: 532891
+Private key of claimant: 36
+ Public key of claimant: 1296
+***********************************************
+
+Round 1: 
+Witness, x: 10201
+Random value selected: 101
+Acknowledgment to sent public key: 1
+Challenge received by verifier: 1
+Response, y: 3636
+Received from verifier: VERIFIED
+***********************************************
+
+Round 2: 
+Witness, x: 10201
+Random value selected: 101
+Acknowledgment to sent public key: 1
+Challenge received by verifier: 1
+Response, y: 3636
+Received from verifier: VERIFIED
+***********************************************
+Result of Fiat-Shamir Authentication: VERIFIED
+
+
+p value chosen by third party: 727 
+q value chosen by third party: 733
+Calculated n value: 532891
+Private key of claimant: 6
+ Public key of claimant: 36
+***********************************************
+
+Round 1: 
+Witness, x: 4
+Random value selected: 532893
+Random value MUST be less than n-1
+Acknowledgment to sent public key: 1
+Challenge received by verifier: 1
+Response, y: 3197358
+Received from verifier: VERIFIED
+***********************************************
+
+Round 2: 
+Witness, x: 4
+Random value selected: 532893
+Random value MUST be less than n-1
+Acknowledgment to sent public key: 1
+Challenge received by verifier: 1
+Response, y: 3197358
+Received from verifier: VERIFIED
+***********************************************
+Result of Fiat-Shamir Authentication: VERIFIED
+
+Test fails:
+ value of r and s must be less than n-1 at all rounds
+
+
+p value chosen by third party: 89 
+q value chosen by third party: 97
+Calculated n value: 8633
+Private key of claimant: 8635
+ Public key of claimant: 4
+Value of public key MUST be less than n-1
+***********************************************
+
+Round 1: 
+Witness, x: 2809
+Random value selected: 53
+Acknowledgment to sent public key: 1
+Challenge received by verifier: 1
+Response, y: 457655
+Received from verifier: VERIFIED
+***********************************************
+
+Round 2: 
+Witness, x: 2809
+Random value selected: 53
+Acknowledgment to sent public key: 1
+Challenge received by verifier: 0
+Response, y: 53
+Received from verifier: VERIFIED
+***********************************************
+Result of Fiat-Shamir Authentication: VERIFIED
+
+Test fails:
+ value of r and s must be less than n-1 at all rounds
+
+

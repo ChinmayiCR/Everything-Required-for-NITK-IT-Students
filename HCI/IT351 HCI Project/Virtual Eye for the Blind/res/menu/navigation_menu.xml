@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_record_voice_over_black_24dp" android:id="@id/ses_ayari" android:title="@string/okumahiziayarimenu" />
+    <item android:icon="@drawable/ic_phonelink_ring_black_24dp" android:id="@id/kullanim_kilavuzu" android:title="@string/kullanimkilavuzumenu" />
+    <item android:icon="@drawable/ic_contact_mail_black_24dp" android:id="@id/bize_ulasin" android:title="@string/bizeulasinmenu" />
+    <item android:id="@id/anaEkranaDon" android:title="@string/nav_bar_anaekranaDon" />
+</menu>

@@ -1,0 +1,55 @@
+<html>
+
+<head>
+    <script src="js/RGraph.common.core.js"></script>
+    <script src="js/RGraph.line.js"></script>
+    <style>
+        #cvs {
+            border: 3px #000 solid;
+        }
+    </style>
+</head>
+
+<body>
+    <canvas id="cvs" width="900" height="500" style="position: absolute; left:40px; top:80px;"></canvas>
+    <script>
+        var canvas = document.getElementById('cvs');
+        var mainCanvas = document.querySelector("#cvs");
+        var mainContext = mainCanvas.getContext("2d");
+        var canvasWidth = mainCanvas.width;
+        var canvasHeight = mainCanvas.height;
+        var hi = new Array();
+        var hii = new Array();
+        for (var i = 0; i <= 21; i++) {
+            hi[i] = localStorage.time1[i];
+        }
+        for (var j = 0; j <= 21; j++) {
+            hii[j] = localStorage.diameter1[j];
+        }
+        mainContext.clearRect(0, 0, canvasWidth, canvasHeight);
+        mainContext.fillStyle = "#FFFFFF";
+        mainContext.fillRect(0, 0, canvasWidth, canvasHeight);
+        window.onload = function () {
+            var line = new RGraph.Line({
+                id: 'cvs',
+                data: [
+                    [hii[0], hii[1], hii[2], hii[3], hii[4], hii[5], hii[6], hii[7], hii[8], hii[9], hii[10], hii[11], hii[12], hii[13], hii[14], hii[15], hii[16], hii[17], hii[18], hii[19], hi[20], hii[21]],
+                    [hi[0], hi[1], hi[2], hi[3], hi[4], hi[5], hi[6], hi[7], hi[8], hi[9], hi[10], hi[11], hi[12], hi[13], hi[14], hi[15], hi[16], hi[17], hi[18], hi[19], hi[20], hi[21]]
+                ],
+                options: {
+                    filled: false,
+                    textAccessible: true,
+                    hmargin: 5,
+                    tickmarks: 'endcircle',
+                    labels: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+                }
+            }).draw();
+            mainContext.font = "13px Arial";
+            mainContext.fillText("X-Axis = Index Of Difficulty (ID)", 700, 20);
+            mainContext.fillText("Y-Axis = Movement Time (MT)", 700, 38);
+        };
+    </script>
+
+</body>
+
+</html>

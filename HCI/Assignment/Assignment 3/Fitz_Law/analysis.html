@@ -1,0 +1,89 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <script src="js/RGraph.common.core.js"></script>
+    <script src="js/RGraph.line.js"></script>
+    <title>Fitts Law</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div class="container my-5">
+        <h2>Know your result:</h2>
+        <div class="col-lg-6 col-lg-offset-3">
+            <h3>General Observation</h3>
+            <p style="font-size:5vw ;font-size: max( 15px);">
+                It is observed that big targets at close distance are acquired faster than small targets at long range.
+                Target acquiring difficulty increases by one unit for each doubling of distance and halving of width of
+                target.
+            </p>
+
+            <div id="wrapper">
+                <div
+                    style="position:absolute; left:40px; top:300px; width:100px; height:600px; background-color:  white;">
+                    <script>
+                        var ch1;
+                        document.write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#428E27'><b><u>Distances</u></b><br>");
+                        document.write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;");
+                        for (var k = 0; k < localStorage.distance1.length; k++) {
+                            ch1 = localStorage.distance1[k];
+                            if (ch1 != ',') {
+                                document.write("<span style=\"color:#428E27; size: 2px; font-weight: bold \" >" + ch1);
+                            }
+                            else {
+                                document.write("<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;");
+                            }
+                        }
+                    </script>
+                </div>
+            </div>
+            <div id="wrapper">
+                <div
+                    style="position:absolute; left:150px; top:300px; width:100px; height:600px; background-color:  white;">
+                    <script>
+                        var ch2;
+                        document.write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#0A8CB5'><b><u>Times</u></b><br>");
+                        document.write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;");
+                        for (var l = 0; l < localStorage.time1.length; l++) {
+                            ch2 = localStorage.time1[l];
+                            if (ch2 != ',') {
+                                document.write("<span style=\"color:#0A8CB5; size: 2px; font-weight: bold \">" + ch2);
+                            }
+                            else {
+                                document.write("<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;");
+                            }
+                        }
+                    </script>
+                </div>
+            </div>
+            <div id="wrapper">
+                <div
+                    style=" position:absolute; left:250px; top:300px; width:100px; height:600px; background-color:  white;">
+                    <script>
+                        var ch3;
+                        document.write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#81190D'><b><u>Diameters</u></b><br>");
+                        document.write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;");
+                        for (var m = 0; m < localStorage.diameter1.length; m++) {
+                            ch3 = localStorage.diameter1[m];
+                            if (ch3 != ',') {
+                                document.write("<span style=\"color:#81190D; size: 2px; font-weight: bold \">" + ch3);
+                            }
+                            else {
+                                document.write("<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;");
+                            }
+                        }
+                    </script>
+                </div>
+            </div>
+            <button id="startBtn" class="btn btn-success"><a href="graph.html" style="text-decoration: none;">Check
+                    Graph</a></button>
+        </div>
+    </div>
+
+</body>
+
+</html>

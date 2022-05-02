@@ -1,0 +1,12 @@
+Test Condition 5: Deny all packets
+Test Case # 5
+IP Version: IPv4
+Source MAC: 50.eb.1a.90.61.32
+Destination MAC: 6c.c2.17.77.00.a6
+Source IP: 13.33.142.118
+Destination IP: 10.100.53.123
+Source Port: 443
+Destination Port: 2323
+Protocol: TCP
+Deny Packet
+

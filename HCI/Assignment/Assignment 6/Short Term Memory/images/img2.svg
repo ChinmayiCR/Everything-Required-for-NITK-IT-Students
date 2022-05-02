@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    viewBox="0 0 640 455"
+  >
+  <g
+      id="imagebot_2"
+    >
+    <path
+        id="imagebot_5"
+        d="m0 227.5v-227.5h320 320v227.5 227.5h-320-320v-227.5z"
+        transform="rotate(180 320 227.5) matrix(1 0 0 1 0 8.6202e-8)"
+        fill="#fcf800"
+    />
+    <path
+        id="imagebot_4"
+        d="m0 227.5v-227.5h320 320v227.5 227.5h-320-320v-227.5zm358.32 146.49c49.11-9.48 89.92-42.92 104.17-85.36 4.68-13.96 5.82-21.2 5.82-37.13s-1.14-23.17-5.82-37.13c-9.93-29.59-34.5-56.84-65.07-72.17-11.22-5.62-26.41-10.74-39.69-13.37-15.91-3.14-40.55-3.14-56.46 0-29.84 5.9-55.31 19.17-75.36 39.26-17.52 17.56-28.06 36.74-33.56 61.07-2.27 10.07-2.27 34.61 0 44.68 5.5 24.33 16.04 43.51 33.56 61.07 22.82 22.87 53.2 37.14 87.59 41.15 10.83 1.26 32.82 0.25 44.82-2.07z"
+        transform="rotate(180 320 227.5) matrix(1 0 0 1 0 8.6202e-8)"
+        fill="#fc0000"
+    />
+    <path
+        id="imagebot_3"
+        d="m0.24607 227.25c0.13819-127.9 0.35911-173.06 0.50389-103.01l0.25784 124.75 94.231 0.25 94.231 0.26 1.16 11.09c2.78 26.71 12.15 48.42 29.42 68.21 20.19 23.13 48.36 38.87 81.22 45.37 8.93 1.76 14.71 2.22 28.23 2.22s19.3-0.46 28.23-2.22c32.86-6.5 61.03-22.24 81.22-45.37 17.27-19.79 26.64-41.5 29.42-68.21l1.16-11.09 85.23-0.26 85.24-0.25v103 103.01h-320-320l0.24607-227.75z"
+        transform="rotate(180 320 181.84) matrix(1 0 0 1 1.23e-8 -91.324)"
+        fill="#000000"
+    />
+    <title
+      >imagebot_2</title
+    >
+  </g
+  >
+  <g
+    >
+    <title
+      >Layer 1</title
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

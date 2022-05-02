@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.mimariyazilim.digigoz1.examples.digigoz.customview.AutoFitTextureView android:id="@id/texture" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <com.mimariyazilim.digigoz1.examples.digigoz.customview.OverlayView android:id="@id/tracking_overlay" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

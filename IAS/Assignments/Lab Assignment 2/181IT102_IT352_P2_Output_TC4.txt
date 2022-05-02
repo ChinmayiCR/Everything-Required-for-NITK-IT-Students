@@ -1,0 +1,12 @@
+Test Condition 4: Deny packets with source IP 10.100.54.*
+Test Case # 4
+IP Version: IPv4
+Source MAC: 6c.c2.17.77.00.a6
+Destination MAC: 50.eb.1a.90.61.32
+Source IP: 10.100.53.123
+Destination IP: 13.33.142.118
+Source Port: 2323
+Destination Port: 443
+Protocol: TCP
+Allow Packet
+
