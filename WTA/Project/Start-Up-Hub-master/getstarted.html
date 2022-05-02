@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+      <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+      <link rel="icon" type="image/png" href="icon.png" sizes="196 196">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <title>Get Started!</title>
+      <style>
+        body,html {
+          height :100%;
+        }
+        .bg-img {
+          background-image: url("backgroundx.jpg");
+          height:100%;
+          width:100%;
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+          position: fixed;
+        }
+        .container #buttonx {
+          position:absolute;
+          width: 80%;
+          max-width: 200px;
+          transform: translate(-50%, -50%);
+          -ms-transform: translate(-50%, -50%);
+          font-size: 16px;
+          border:aliceblue;
+          cursor: pointer;
+        }
+        nav {
+          height: 40px;
+          line-height: 40px;
+        }
+      </style>
+    </head>
+    <body>
+      <div class="container bg-img" style="clear: none;overflow: hidden;">
+        <nav class="white nav" role="navigation" style="">
+          <div class="nav-wrapper container" style="clear: none;">
+            <a id="logo-container" href="#" class="brand-logo"><img src="logo.png" width="100px" height="33px" style="padding-bottom: 5px;"></a>
+          </div>
+        </nav>
+        <div class="row center">
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <div class="col s10 m4 offset-s1 offset-m4">
+            <div class="white z-depth-5" style="opacity:0.8;">
+              <span class="center blue-grey-text text-darken-2"><h4  style="padding-top: 5px;padding-bottom: 8px;"><b>Select user type</b></h4></span>
+            </div>
+          </div>
+        </div>
+        <br>
+        <br>
+        <br>
+        <div class="row center">
+          <div class="col s12 m4">
+            <a href="log_in1.html" id="buttonx" class="btn-large waves-effect waves-light teal lighten-1 pulse">Company</a>
+          </div>
+          <div class="col s12 m4">
+            <a href="log_in2.html" id="buttonx" class="btn-large waves-effect waves-light teal lighten-1 pulse">Sponsor</a>
+          </div>
+          <div class="col s12 m4">
+            <a href="log_in3.html" id="buttonx" class="btn-large waves-effect waves-light teal lighten-1 pulse">Shareholder</a>
+          </div>
+        </div>
+      </div>
+      <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+      <script type="text/javascript" src="js/materialize.min.js"></script>
+      <script src="js/init.js"></script>
+    </body>
+  </html>

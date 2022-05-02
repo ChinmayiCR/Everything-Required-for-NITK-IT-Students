@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+      <link rel="icon" type="image/png" href="icon.png" sizes="196 196">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <title>LogIn</title>
+      <style>
+        body, html {
+          height: 100%;
+        }
+        .bg-img {
+          background-image: url("backgroundx.jpg");
+          height:100%;
+          width:100%;
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+          position: fixed;
+        }
+        .block {
+          display: block;
+          width: 100%;
+          border: none;
+          cursor: pointer;
+          text-align: center;
+        }
+        nav {
+          height: 40px;
+          line-height: 40px;
+        }
+      </style>
+    </head>
+​
+    <body>
+      <div class="bg-img" style="float:left;clear: none;overflow:hidden">
+        <nav class="white nav" role="navigation" style="float:left;clear: none;">
+          <div class="nav-wrapper container" style="clear: none;">
+            <a id="logo-container" href="#" class="brand-logo"><img src="logo.png" width="100px" height="33px" style="padding-bottom: 5px;"></a>
+          </div>
+        </nav>
+        <div class="row">
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <div class="col s10 m4 offset-s1 offset-m4">
+            <div class="card small black darken-1" style="opacity:0.8;">
+              <form action="/action_page.php" class="container">
+                <br>
+                <label for="email"><h6 class="white-text text-darken-5">Email</h6></label>
+                <input type="text" placeholder="Enter Email" name="email" required>
+                <label for="psw"><h6 class="white-text text-darken-5">Password</h6></label>
+                <input type="password" placeholder="Enter Password" name="psw" required>
+                <button type="submit" class="waves-effect waves-light btn block">Log In</button>  
+              </form>
+              <br>
+              <div style="text-align: center;">
+                <a class="white-text text-lighten-3"> Don't have an account?</a><a class="teal-text text-lighten-3" href="sign_up3.html"> Sign Up</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+      <script type="text/javascript" src="js/materialize.min.js"></script>
+      <script src="js/init.js"></script>
+    </body>
+  </html>

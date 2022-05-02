@@ -1,0 +1,50 @@
+<!doctype html>
+
+<html lang="en" ng-app>
+  <head>
+    <title>Social Network Assignment</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+      
+    </style>
+  </head>
+  <body onload="" class="clearfix">
+    <main>
+      <div class="container">
+        <div class="col-md-9 center-block vertical-align">
+          <div class="row">
+            <div class="col-md-7 hidden-sm hidden-xs">
+              <div class="row">
+                <div class="animation ">
+                </div>
+              </div>
+            </div>
+            <div class="col-md-5 col-sm-12 col-xs-12">
+              <div class="login-container clearfix">
+                <a href="/" class="logolink">
+                </a>
+                <p class="text-center description-page">Tell your story through pictures!<br>Please insert your data to login:</p>
+                <div class="bg-danger">
+                  <p id="error"></p>
+                </div>
+                
+                <form action="" id="form" data-location="posts" data-formtype="login">
+                  <div class="form-group">
+                    <input type="email" class="form-control" id="email" placeholder="Email">
+                  </div>
+                  <div class="form-group">
+                    <input type="password" class="form-control" id="password" placeholder="Password">
+                  </div>
+                  <button class="btn btn-blue" onclick="handleLoginAttempt()">Submit</button>
+                  <hr>
+                  <a class="btn btn-default" href="passwordreset">Forgot password</a>
+                </form>
+              </div>
+              <a href="/" class="login-container col-md-12 pull-left">Don't have account? Join here.</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+      <link rel="icon" type="image/png" href="icon.png" sizes="196 196">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <title>SignUp</title>
+      <style>
+        body, html {
+          height: 100%;
+        }
+        .bg-img {
+          background-image: url("backgroundx.jpg");
+          height:100%;
+          width:100%;
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+          position: fixed;
+        }
+        .block {
+          display: block;
+          width: 100%;
+          border: none;
+          cursor: pointer;
+          text-align: center;
+        }
+        nav {
+          height: 40px;
+          line-height: 40px;
+        }
+      </style>
+    </head>
+​
+    <body>
+      <div class="bg-img" style="float:left;clear: none;overflow:hidden">
+        <nav class="white nav" role="navigation" style="float:left;clear: none;">
+          <div class="nav-wrapper container" style="clear: none;">
+              <a id="logo-container" href="#" class="brand-logo"><img src="logo.png" width="100px" height="33px" style="padding-bottom: 5px;"></a>
+          </div>
+        </nav>
+        <div class="row">
+          <div class="col s10 m4 offset-s1 offset-m4">
+            <div class="card black darken-1" style="opacity:0.8;">
+              <form action="/action_page.php" class="container">
+                <h6 class="white-text text-darken-5" style="text-align: center;padding-top: 7px;;">Register :</h6>
+
+                <label for="Cname"><p class="white-text text-darken-5" style="font-size:13px;">Company Name</p></label>
+                <input type="text" placeholder="Enter Name" name="Cname" required>
+
+                <label for="email"><p class="white-text text-darken-5" style="font-size:13px;">Email</p></label>
+                <input type="text" placeholder="Enter Email" name="email" required>
+
+                <label for="psw"><p class="white-text text-darken-5" style="font-size:13px;">Password</p></label>
+                <input type="password" placeholder="Enter Password" name="psw" required>
+            
+                <label for="psw-repeat"><p class="white-text text-darken-5" style="font-size:13px;">Repeat Password</p></label>
+                <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
+            
+                <label>
+                  <input type="checkbox" id="remember" checked="checked" class="filled-in" name="remember" value="yes" style="margin-bottom:15px"><span>Remember me</span>
+                </label>
+                <br>
+                <i class="white-text text-darken-5" style="font-size: 10px;">by creating an account you agree to our </i><a href="#" style="color:dodgerblue;font-size:12px;">Terms & Conditions</a>
+            
+                <div class="clearfix">
+                  <button type="submit" class="signupbtn waves-effect waves-light btn block">Submit</button>
+                </div>
+                <br>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+      <script type="text/javascript" src="js/materialize.min.js"></script>
+      <script src="js/init.js"></script>
+    </body>
+  </html>

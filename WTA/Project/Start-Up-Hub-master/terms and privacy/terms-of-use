@@ -1,0 +1,562 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <link rel="home" href="https://moz.com/" />
+  <link rel="stylesheet" href="https://moz.com/assets/dist/styles/moz-8a6f46cd.min.css">
+  <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://feedpress.me/mozblog" />
+  <meta name="theme-color" content="#4dbdeb">
+
+        
+  <script>
+    window.mozModules = [];
+
+    window.mozConfig = {
+      'devMode': false
+    };
+  </script>
+
+  
+
+  <script>
+
+    
+  window._mtm = {
+    config: {
+      team: "inbound",
+      service: "cms",
+      page: "legal--legal",
+      env: "production"
+    }
+  };
+  </script>
+  <script src="https://moz.com/tags.js"></script>
+<title>Moz - Terms of Use</title><meta name="referrer" content="no-referrer-when-downgrade">
+<meta name="robots" content="all">
+<meta content="https://www.facebook.com/moz/about/" property="fb:profile_id">
+<meta content="en_US" property="og:locale">
+<meta content="Moz" property="og:site_name">
+<meta content="website" property="og:type">
+<meta content="https://moz.com/terms-of-use" property="og:url">
+<meta content="Terms of Use" property="og:title">
+<meta content="https://moz-static.s3.amazonaws.com/cms/_1200x630_crop_center-center_82_none/moz-stairs-homepage-banner-v2.jpg?mtime=20180724120731&amp;focal=64.23%25+49.7%25&amp;tmtime=20190509160038" property="og:image">
+<meta content="1200" property="og:image:width">
+<meta content="630" property="og:image:height">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@Moz">
+<meta name="twitter:creator" content="@Moz">
+<meta name="twitter:title" content="Terms of Use">
+<meta name="twitter:image" content="https://moz-static.s3.amazonaws.com/cms/_800x418_crop_center-center_82_none/moz-stairs-homepage-banner-v2.jpg?mtime=20180724120731&amp;focal=64.23%25+49.7%25&amp;tmtime=20190509160038">
+<meta name="twitter:image:width" content="800">
+<meta name="twitter:image:height" content="418">
+<meta name="google-site-verification" content="chSe80_PxsxsISJaPjTi2fNnSZcyMM-uVr5TVIjXIT4">
+<link href="https://moz.com/terms-of-use" rel="canonical">
+<link href="https://moz.com/" rel="home">
+<link type="text/plain" href="https://moz.com/humans.txt" rel="author"></head>
+
+<body class="page-legal">
+      <div id="wrap" class="no-overflow">
+  
+      <script>
+var _mgn = {
+    env: "production",
+    hosts: {
+    moz: "https://moz.com",
+    ma: "https://analytics.moz.com",
+    fwe: "https://moz.com/researchtools/fwe/",
+    rank: "https://analytics.moz.com/pro/research/rankings",
+    local: "https://moz.com/local",
+    localapp: "https://localapp.moz.com/en/app/moz",
+    lma: "https://analytics.moz.com/pro/local-market-analytics"
+  },
+  urls: {
+      gateway_scripts: "https://moz.com/svc/gateway/dist/app.gateway.js",
+      gateway_stylesheets: "https://moz.com/svc/gateway/dist/styles.gateway.css",
+      forge: "https://moz.com/svc/forge/api.js"
+  },
+    metanav: 1
+};
+</script>
+<style class="mgn-stylesheet">.mgn-main{font-family:Lato,Helvetica,Arial,sans-serif;color:#909c9e;font-size:14px;line-height:normal;position:relative}.mgn-main,.mgn-main *{box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box}.mgn-main a{color:#778283;text-decoration:none!important}.mgn-main a:hover{color:#424a4f;text-decoration:none!important}.mgn-main ul{list-style-type:none;margin:0;padding:0}.mgn-main li{margin:0;padding:0}.mgn-bar{background:#fff;height:56px;position:relative;z-index:100;clear:both;line-height:normal;opacity:1;padding:0;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.mgn-bar.mgn-bar-fixed{position:fixed;width:100%}.mgn-container-fluid{padding:0 20px;max-width:100%;width:100%}.mgn-container{max-width:100%;width:1180px;margin:0 auto;padding:0;position:static}.mgn-medium-screen .mgn-bar>.mgn-container{width:960px}.mgn-logo{padding:16px 30px 0 0;float:left}.mgn-logo svg{fill:#4dbdeb;height:24px;width:83px}.mgn-icon{vertical-align:middle;fill:#778283;background-image:none;height:18px;width:18px}.mgn-icon-close{height:14px;width:14px;margin:2px}.mgn-drawer,.mgn-dropdown{position:absolute;background:#fff;border-top:1px solid #dde8e8;border-bottom:1px solid #dde8e8;box-shadow:3px 3px 10px rgba(0,0,0,.1);overflow:hidden;z-index:99;-webkit-transform:translateY(-100%);transform:translateY(-100%);transition-property:-webkit-transform;transition-property:transform;transition-property:transform,-webkit-transform;transition-duration:.2s}.mgn-drawer.mgn-active,.mgn-dropdown.mgn-active{-webkit-transform:translateY(0);transform:translateY(0)}.mgn-dropdown.mgn-dropdown-fixed{position:fixed;top:56px}.mgn-disabled{display:none}.mgn-profile-image-small{width:30px;height:30px;border-radius:30px;margin:0 7px;vertical-align:middle}.mgn-bottom-bar,.mgn-highlighted:after,.mgn-selectable.mgn-active:after,.mgn-selectable:hover:after{content:'';position:absolute;bottom:0;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%);width:calc(100% - 10px);height:5px;background-color:#dde8e8}.mgn-center{text-align:center}.mgn-grey{color:#909c9e}.mgn-strong{font-weight:700}.mgn-mb-0{margin-bottom:0}.mgn-show-lma,.mgn-show-local,.mgn-show-pro{display:none}.mgn-btn{display:inline-block;font-weight:400;line-height:1.5;text-align:center;white-space:nowrap;vertical-align:middle;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;border:2px solid transparent;padding:.4rem .6rem;font-size:14px;border-radius:.125rem;transition-duration:.1s;transition-property:border-color;background-color:#4dbdeb;border:1px solid transparent;border-color:#4dbdeb;border-bottom-color:#3594ba;border-top-color:#a6e2f7;box-shadow:1px 1px 0 0 #3594ba,1px -1px 0 0 #3594ba,-1px 1px 0 0 #3594ba,-1px -1px 0 0 #3594ba;color:#fff}.mgn-btn .mgn-icon{fill:#fff;width:1.7rem;height:1.7rem}.mgn-btn:hover{border-color:#4dbdeb}.mgn-btn.mgn-btn-yellow{background-color:#ffd262;border-color:#ffd262;border-bottom-color:#e4b34f;border-top-color:#ffe8b2;box-shadow:1px 1px 0 0 #e4b34f,1px -1px 0 0 #e4b34f,-1px 1px 0 0 #e4b34f,-1px -1px 0 0 #e4b34f;color:#ad7327}.mgn-btn.mgn-btn-yellow:hover{color:#ad7327;border-color:#ffd262}.mgn-nav-meta .mgn-item{display:block;float:left;font-family:"Roboto Slab",Museo,MuseoSlab500,Helvetica,Arial,sans-serif}.mgn-nav-meta .mgn-item.mgn-active a{background:#f0f7f7;color:#424a4f}.mgn-nav-meta .mgn-item a{display:block;font-size:18px;padding:0 20px;line-height:56px}.mgn-nav-extra{float:right;margin:0;padding:0}.mgn-nav-extra>li{font-size:16px;float:left;position:relative;overflow:hidden}.mgn-nav-extra>li>a{display:block;height:56px;line-height:56px}.mgn-nav-extra>li.mgn-highlighted span,.mgn-nav-extra>li.mgn-highlighted svg,.mgn-nav-extra>li.mgn-highlighted>a,.mgn-nav-extra>li:hover span,.mgn-nav-extra>li:hover svg,.mgn-nav-extra>li:hover>a{color:#424a4f;fill:#424a4f}.mgn-nav-extra>li.mgn-line-block{background-color:#dde8e8;width:2px;height:30px;margin:16px 10px 0 10px}.mgn-nav-extra .mgn-item{display:block;cursor:pointer;padding:0 10px}.mgn-nav-extra .mgn-nav-extra-label{font-family:Lato,Helvetica,Arial,sans-serif;padding-left:2px}.mgn-nav-extra .mgn-learn>span{margin-left:5px}.mgn-nav-extra .mgn-products>a{position:relative;padding:0 10px;color:#778283;cursor:pointer}.mgn-nav-extra .mgn-gateway-hook{min-width:38px}.mgn-local.mgn-active:after,.mgn-local.mgn-highlighted:after,.mgn-local:hover:after,.mgn-pro.mgn-active:after,.mgn-pro.mgn-highlighted:after,.mgn-pro:hover:after{background-color:#4dbdeb}.mgn-login{line-height:56px}.mgn-login .mgn-button-login{padding:0 10px;color:#4dbdeb;font-weight:900}.mgn-login .mgn-button-login:hover{color:#0b7daa}.mgn-login .mgn-nav-extra-label{font-size:12px;padding-left:2px}.mgn-dropdown{width:250px}.mgn-dropdown .mgn-inner{margin:20px}.mgn-dropdown .mgn-description{font-size:12px;color:#778283;margin-top:0}.mgn-dropdown .mgn-site-link{display:block;padding:2px 0;color:#4dbdeb;font-size:14px;font-weight:700}.mgn-dropdown .mgn-site-link .mgn-badge{margin-left:5px}.mgn-dropdown .mgn-site-link:hover{color:#0b7daa}.mgn-dropdown .mgn-site-link:hover .mgn-icon-external{display:inline-block}.mgn-dropdown .mgn-header{display:block;font-size:16px;font-weight:400;margin:20px 20px 10px 0}.mgn-dropdown ul{margin-bottom:20px}.mgn-dropdown .mgn-ad .mgn-btn{margin-bottom:20px}.mgn-dropdown .mgn-ad .mgn-description{margin:14px 0}.mgn-dropdown .mgn-product-header .mgn-site-link{margin-top:10px;font-size:16px}.mgn-dropdown .mgn-product-header .mgn-description{margin:0 0 14px 0}.mgn-dropdown .mgn-tools-list .mgn-item{margin:8px 0}.mgn-dropdown .mgn-icon-external{display:none;fill:#0b7daa;width:12px;height:12px}.mgn-dropdown hr{margin:0 10px;margin:0 auto}.mgn-dropdown .mgn-discover{display:block;margin:20px 0;color:#4dbdeb}.mgn-dropdown .mgn-discover:hover{color:#0b7daa}.mgn-badge{font-size:11px;display:inline-block;vertical-align:bottom;position:relative;left:2px;border-radius:2px;padding:3px;background-color:#ffd262;color:#ba6536;line-height:11px;font-weight:700}.mgn-profile{width:44px}.mgn-profile .mgn-item{padding:0}.mgn-nav-mobile{display:none;float:right;height:56px;padding:15px 0;cursor:pointer}.mgn-nav-mobile.mgn-active .mgn-icon-menu{display:none}.mgn-drawer-mobile{display:none;position:fixed;left:0;top:0;height:100%;width:100%;transition-property:-webkit-transform;transition-property:transform;transition-property:transform,-webkit-transform;transition-duration:.4s;z-index:99;background:#fff;padding-top:76px}.mgn-drawer-mobile.mgn-active{-webkit-transform:translateY(0);transform:translateY(0)}.mgn-drawer-mobile .mgn-mobile-search{position:relative}.mgn-drawer-mobile .mgn-mobile-search input{margin:10px 0 0;height:34px;width:100%;padding:0 40px 0 6px;outline:0;font-size:12px;border:1px solid #dde8e8;border-radius:4px;vertical-align:baseline;line-height:normal;box-shadow:none;-webkit-appearance:none}.mgn-drawer-mobile .mgn-mobile-search button{background:0 0;border:none;padding:0;outline:0}.mgn-drawer-mobile .mgn-mobile-search svg{position:absolute;right:5px;top:19px}.mgn-drawer-mobile .mgn-mobile-profile{line-height:56px}.mgn-drawer-mobile .mgn-item{border-bottom:1px solid #dde8e8}.mgn-drawer-mobile .mgn-item>span{-webkit-box-align:center;-ms-flex-align:center;-ms-grid-row-align:center;align-items:center;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}.mgn-drawer-mobile .mgn-item>span:after{content:'\2303';font-weight:700;-webkit-transform:rotate(180deg);transform:rotate(180deg)}.mgn-drawer-mobile .mgn-item.mgn-open>span:after{-webkit-transform:rotate(0);transform:rotate(0)}.mgn-drawer-mobile .mgn-item>a,.mgn-drawer-mobile .mgn-item>span{display:-webkit-box;display:-ms-flexbox;display:flex;color:#778283;padding:9px 0;font-size:17px}.mgn-drawer-mobile .mgn-sub-nav{display:none;margin-bottom:10px}.mgn-drawer-mobile .mgn-sub-nav a{color:#909c9e}.mgn-drawer-mobile .mgn-item.mgn-open .mgn-sub-nav{display:block}.mgn-drawer-mobile .mgn-sub-item{padding:6px 0;font-size:14px}.mgn-mobile-active{overflow:hidden}.mgn-footer{position:relative;color:#5d6769;font-size:14px;font-family:Lato,Helvetica,Arial,sans-serif}.mgn-footer .mgn-container:after,.mgn-footer .mgn-container:before{content:" ";display:table}.mgn-footer .mgn-container:after{clear:both}.mgn-footer .mgn-copyright,.mgn-footer .mgn-logo{line-height:14px}.mgn-footer .mgn-copyright,.mgn-footer .mgn-links{padding:0;margin:10px 0 0}.mgn-footer .mgn-links{list-style:none}.mgn-footer-skinny{padding:25px 0 30px;border-top:1px solid #dde8e8;background-color:#fff;line-height:14px}.mgn-footer-skinny .mgn-links,.mgn-footer-skinny .mgn-logo{float:left}.mgn-footer-skinny .mgn-logo{padding:0;margin-right:60px}.mgn-footer-skinny .mgn-logo svg{fill:#778283;height:24px;width:83px}.mgn-footer-skinny .mgn-links li{display:inline-block;padding:0;margin:0 7px 14px 7px}.mgn-footer-skinny .mgn-links a{color:#778283;text-decoration:none}.mgn-footer-skinny .mgn-links a:hover{text-decoration:underline}.mgn-footer-skinny .mgn-copyright{float:right;color:#909c9e;font-size:12px}.mgn-footer-fat{padding:25px 0 30px;border-top:2px solid #dde8e8;background-color:#f0f7f7}.mgn-footer-fat p{margin:15px 0}.mgn-footer-fat ul{line-height:30px}.mgn-footer-fat h3{color:#909c9e;font-weight:400;margin-top:30px;margin-bottom:20px;font-size:20px}.mgn-footer-fat .mgn-row{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;margin-bottom:40px}.mgn-footer-fat .mgn-col{-webkit-box-flex:1;-ms-flex:1;flex:1;padding:0 20px}.mgn-footer-fat .mgn-col:first-child{padding-left:0}.mgn-footer-fat .mgn-col:last-child{padding-right:0;border-left:1px solid #dde8e8}@media all and (min-width:960px) and (max-width:1179px){.mgn-footer:not(.mgn-medium-screen) .mgn-logo{margin-right:30px}}@media all and (min-width:0) and (max-width:959px){.mgn-footer:not(.mgn-medium-screen){border-top:0 none}.mgn-footer:not(.mgn-medium-screen) .mgn-footer-skinny{text-align:center}.mgn-footer:not(.mgn-medium-screen) .mgn-footer-fat .mgn-links{line-height:38px}.mgn-footer:not(.mgn-medium-screen) .mgn-copyright,.mgn-footer:not(.mgn-medium-screen) .mgn-links,.mgn-footer:not(.mgn-medium-screen) .mgn-logo{float:none}.mgn-footer:not(.mgn-medium-screen) .mgn-logo{margin:0 0 30px}.mgn-footer:not(.mgn-medium-screen) .mgn-links{margin-bottom:15px}.mgn-footer:not(.mgn-medium-screen) .mgn-links li.mgn-hide-small{display:none}}@media all and (min-width:0) and (max-width:767px){.mgn-footer-fat{text-align:center}.mgn-footer-fat .mgn-col{-webkit-box-flex:1;-ms-flex:1 0 100%;flex:1 0 100%;padding:0}.mgn-footer-fat .mgn-col:last-child{border-left:none;border-top:1px solid #dde8e8;text-align:left}}.mgn-footer.mgn-medium-screen .mgn-container{max-width:1180px;width:1180px}.mgn-footer-back-to-top,.mgn-footer-back-to-top-arrow{display:block;text-align:center;background-color:#dfeeee}.mgn-footer-back-to-top-arrow:hover,.mgn-footer-back-to-top:hover{text-decoration:none}.mgn-footer-back-to-top{padding:15px 0}@media all and (min-width:960px){.mgn-footer-back-to-top{display:none}}.mgn-footer-back-to-top-arrow{margin:0 auto -5px auto;border-radius:60px 60px 0 0;width:60px;height:30px}.mgn-footer-back-to-top-arrow .mgn-icon{margin-top:12px;fill:#0b7daa}@media all and (min-width:960px){.mgn-footer-back-to-top-arrow{display:none}}.mgn-show-small{display:none}@media all and (min-width:960px) and (max-width:1179px){.mgn-container{max-width:960px}}@media all and (min-width:768px) and (max-width:1179px){.mgn-nav-meta .mgn-item a{padding:0 15px}}@media all and (min-width:768px) and (max-width:959px){.mgn-container{max-width:768px}.mgn-products{display:none}.mgn-show-small{display:initial}.mgn-hide-medium-down{display:none}}@media all and (max-width:768px){.mgn-container{margin:0;padding:0 20px}.mgn-home,.mgn-nav-extra,.mgn-nav-meta{display:none}.mgn-drawer-mobile,.mgn-nav-mobile{display:block}.mgn-hide-small{display:none}}.mgn-subnav.mgn-local-subnav{margin-top:56px}.mgn-subnav{background-color:#4faba5;color:#c3faec;font-size:14px;height:60px;line-height:60px}@media (min-width:768px){.mgn-subnav .mgn-d-lg-block{display:block!important}}.mgn-subnav .mgn-icon{fill:#c3faec;vertical-align:middle}.mgn-subnav a{color:#c3faec;display:block;position:relative;text-decoration:none}.mgn-subnav a:hover{color:#fff;text-decoration:none}.mgn-subnav a:hover .mgn-icon{fill:#fff}.mgn-subnav .mgn-dropdown{display:block;padding:0 10px;height:60px}.mgn-subnav .mgn-dropdown .mgn-title{margin:0 8px -2px 0}.mgn-subnav .mgn-dropdown .mgn-caret{border-top-color:#c3faec;margin-bottom:-3px}.mgn-subnav .mgn-dropdown.mgn-open{background:#70bdb8}.mgn-subnav .mgn-dropdown.mgn-open .mgn-toggle{color:#fff}.mgn-subnav .mgn-dropdown.mgn-open .mgn-caret{border-top-color:#fff}.mgn-subnav .mgn-dropdown.mgn-open .mgn-dropdown-menu{border-top:0}.mgn-subnav .mgn-dropdown-menu{left:-1px;top:100%}.mgn-subnav-breadcrumbs,.mgn-subnav-items,.mgn-subnav-items-left,.mgn-subnav-title{list-style-type:none;margin:0;padding:0}.mgn-subnav-breadcrumbs a,.mgn-subnav-items a,.mgn-subnav-items-left a,.mgn-subnav-title a{line-height:60px}.mgn-subnav-breadcrumbs>.mgn-item,.mgn-subnav-items-left>.mgn-item,.mgn-subnav-items>.mgn-item,.mgn-subnav-title>.mgn-item{float:left;padding:0}.mgn-subnav-breadcrumbs>.mgn-item.mgn-active,.mgn-subnav-breadcrumbs>.mgn-item.mgn-active a,.mgn-subnav-items-left>.mgn-item.mgn-active,.mgn-subnav-items-left>.mgn-item.mgn-active a,.mgn-subnav-items>.mgn-item.mgn-active,.mgn-subnav-items>.mgn-item.mgn-active a,.mgn-subnav-title>.mgn-item.mgn-active,.mgn-subnav-title>.mgn-item.mgn-active a{color:#fff}.mgn-subnav-breadcrumbs,.mgn-subnav-items,.mgn-subnav-items-left,.mgn-subnav-title{color:#c3faec;float:left;height:60px;line-height:60px}.mgn-subnav-breadcrumbs .mgn-featured,.mgn-subnav-items .mgn-featured,.mgn-subnav-items-left .mgn-featured,.mgn-subnav-title .mgn-featured{font-size:16px}.mgn-subnav-title{font-size:24px;font-weight:400;padding-right:55px}.mgn-subnav-breadcrumbs,.mgn-subnav-title{font-size:20px}.mgn-subnav-breadcrumbs>.mgn-item,.mgn-subnav-items-left>.mgn-item{padding-left:13px;padding-right:13px;position:relative}.mgn-subnav-breadcrumbs>.mgn-item.mgn-featured,.mgn-subnav-items-left>.mgn-item.mgn-featured{padding-left:25px;padding-right:25px}.mgn-subnav-breadcrumbs>.mgn-item.mgn-item-icon,.mgn-subnav-items-left>.mgn-item.mgn-item-icon{padding-left:45px;padding-right:45px}.mgn-subnav-breadcrumbs>.mgn-item.mgn-separator:after,.mgn-subnav-items-left>.mgn-item.mgn-separator:after{bottom:1px;content:"|";font-weight:400;position:absolute;right:0}.mgn-subnav-breadcrumbs>.mgn-item:last-of-type,.mgn-subnav-items-left>.mgn-item:last-of-type{padding-right:0}.mgn-subnav-breadcrumbs>.mgn-item:first-of-type,.mgn-subnav-items-left>.mgn-item:first-of-type{padding-left:0}.mgn-subnav-items-left>.mgn-item,.mgn-subnav-items>.mgn-item{height:60px}.mgn-subnav-items-left>.mgn-item.mgn-active a:after,.mgn-subnav-items>.mgn-item.mgn-active a:after{background-color:#2d7d79;bottom:0;content:"";height:5px;position:absolute;right:-10px;left:-10px}.mgn-subnav-items{float:right}.mgn-subnav-items>.mgn-item{padding:0 20px}.mgn-subnav-items>.mgn-item:last-of-type{padding-right:10px}.mgn-subnav-items>.mgn-item.mgn-help a:after{background-color:transparent}.mgn-subnav-items>.mgn-item.mgn-external{font-style:italic}.mgn-subnav .mgn-icon.mgn-icon-help{width:24px;height:24px}.mgn-subnav .mgn-icon.mgn-icon-help:hover{fill:#fff}.mgn-subnav h3{letter-spacing:0}.mgn-subnav-title{padding-right:60px}.mgn-subnav-items-left>.mgn-item{padding-right:36px;font-family:"Roboto Slab",Museo,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px}.mgn-subnav-items-left>.mgn-hide-local-managed{display:none}.mgn-subnav{background-color:#0075a8;color:#e2f3f9}.mgn-subnav a{color:#e2f3f9}.mgn-subnav-breadcrumbs,.mgn-subnav-items-left,.mgn-subnav-title{color:#e2f3f9}.mgn-subnav-items-left>.mgn-item.mgn-active a:after,.mgn-subnav-items>.mgn-item.mgn-active a:after{background-color:#e2f3f9}.mgn-subnav .mgn-icon{fill:currentColor}.mgn-subnav .mgn-container .mgn-icon-help:hover,.mgn-subnav a:hover .mgn-icon{fill:currentColor}.mgn-bar.mgn-subnav{z-index:98}</style>
+<script src="https://moz.com/globalnav/1.6.7/scripts/globalnav.min.js" async></script>
+<header id="globalnav" class="mgn-main ">
+  <div class="mgn-bar ">
+    <div class="mgn-container">
+      <div class="mgn-logo">
+        <a href="https://moz.com">
+          <svg aria-labelledby="moz-logo-title" class="mgn-moz-logo" width="83" height="24" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 83 24">
+            <title id="moz-logo-title">Moz</title>
+            <path d="M71 16L82.99 3h-25.1c-.48.018-.866.4-.89.882v2.736C54.697 2.696 49.97 0 44.5 0 38.036 0 32.61 3.76 31 8.863V3h-4.38c-1.043.015-1.957.478-2.62 1.177l-8.498 9.325L7 4.177C6.34 3.477 5.427 3.015 4.383 3H0v19h5.117c.492-.024.863-.42.883-.91V12l9.5 10.5L25 12v9.09c.017.49.415.886.905.91H31v-6.863C32.61 20.24 38.036 24 44.5 24c7.732 0 14-5.373 14-12 0-1.038-.17-2.04-.46-3H69L57 22h25.104c.48-.018.872-.403.896-.884V16H71zm-26.452 1.96c-3.764 0-6.818-2.668-6.818-5.96 0-3.293 3.053-5.96 6.818-5.96 3.768 0 6.822 2.668 6.822 5.96s-3.053 5.96-6.822 5.96z"></path>
+          </svg>
+        </a>
+      </div>
+      <nav class="mgn-nav-meta">
+
+<ul>
+  <li class="mgn-item mgn-item-products ">
+    <a href="https://moz.com/products">Products</a>
+  </li>
+  <li class="mgn-item mgn-item-blog ">
+    <a href="https://moz.com/blog">Blog</a>
+  </li>
+  <li class="mgn-item mgn-item-about ">
+    <a href="https://moz.com/about">About</a>
+  </li>
+</ul>
+              </nav>
+      <ul class="mgn-nav-extra">
+        <li class="mgn-search">
+          <a href="https://moz.com/search" class="mgn-item" title="Search">
+            <svg class="mgn-icon mgn-icon-search" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+              <title>Search</title>
+              <path d="M18 16.94l-5.553-5.554C13.417 10.186 14 8.66 14 7c0-3.86-3.14-7-7-7S0 3.14 0 7s3.14 7 7 7c1.66 0 3.185-.584 4.386-1.553L16.94 18 18 16.94zM7 12.5c-3.032 0-5.5-2.467-5.5-5.5S3.968 1.5 7 1.5s5.5 2.467 5.5 5.5-2.468 5.5-5.5 5.5z"/>
+            </svg>
+          </a>
+        </li>
+        <li class="mgn-learn mgn-selectable ">
+          <a href="https://moz.com/learn/seo" class="mgn-item" title="Resources" data-dropdown="learn">
+            <svg class="mgn-icon mgn-icon-book mgn-show-small" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+              <title>Resources</title>
+              <path d="M16.25 0H12c-1.23 0-2.316.604-3 1.523C8.316.603 7.23 0 6 0H1.75C.785 0 0 .785 0 1.75V14c0 .965.785 1.75 1.75 1.75H6c1.24 0 2.25 1.01 2.25 2.25h1.5c0-1.24 1.01-2.25 2.25-2.25h4.25c.965 0 1.75-.785 1.75-1.75V1.75C18 .785 17.215 0 16.25 0zM6 14.25H1.75c-.136 0-.25-.114-.25-.25V1.75c0-.136.114-.25.25-.25H6c1.24 0 2.25 1.01 2.25 2.25v11.27c-.63-.477-1.403-.77-2.25-.77zM16.5 14c0 .136-.114.25-.25.25H12c-.847 0-1.62.293-2.25.77V3.75c0-1.24 1.01-2.25 2.25-2.25h4.25c.136 0 .25.114.25.25V14z"/>
+            </svg>
+            <span class="mgn-hide-medium-down">Resources</span>
+            </a>
+        </li>
+        <li class="mgn-pro mgn-products mgn-blue mgn-selectable ">
+          <a href="https://moz.com/products/pro" title="Moz Pro" data-dropdown="pro">Moz Pro</a>
+        </li>
+        <li class="mgn-local mgn-products mgn-blue mgn-selectable ">
+          <a href="https://moz.com/products/local" title="Moz Local" data-dropdown="local">Moz Local</a>
+        </li>
+        <li class="mgn-tools mgn-selectable mgn-products">
+
+            <a href="https://moz.com/tools" title="Free Tools" >Free SEO Tools</a>
+        </li>
+
+          <li class="mgn-login">
+            <a class="mgn-item mgn-button-login" href="https://moz.com/login">Log in</a>
+          </li>
+      </ul>
+      <nav class="mgn-nav-mobile">
+        <div class="mgn-item" data-dropdown="mobile">
+          <svg class="mgn-icon mgn-icon-menu" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <title>Menu</title>
+            <path d="M24 3c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1s.45-1 1-1h22c.55 0 1 .45 1 1zM24 12c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1s.45-1 1-1h22c.55 0 1 .45 1 1zM24 21c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1s.45-1 1-1h22c.55 0 1 .45 1 1z"/>
+          </svg>
+          <svg viewBox="0 0 24 24" class="mgn-icon mgn-icon-close mgn-disabled">
+            <title>icon-close</title>
+            <path d="M13.41 12L24 22.59 22.59 24 12 13.41 1.41 24 0 22.59 10.59 12 0 1.41 1.41 0 12 10.59 22.59 0 24 1.41z"></path>
+          </svg>
+        </div>
+      </nav>
+    </div>
+  </div>
+  <div id="verify-alert"></div>
+  <div class="mgn-dropdown  mgn-dropdown-learn mgn-disabled">
+<div class="mgn-inner">
+  <ul class="mgn-tools-list">
+    <li class="mgn-item">
+      <a class="mgn-site-link" href="https://moz.com/learn/seo">
+        SEO Learning Center
+      </a>
+      <p class="mgn-description">Broaden your SEO knowledge with resources for all skill levels.</p>
+    </li>
+    <li class="mgn-item">
+      <a class="mgn-site-link" href="https://moz.com/beginners-guide-to-seo">
+        The Beginner's Guide to SEO
+      </a>
+      <p class="mgn-description">If you're brand new to SEO, start here.</p>
+    </li>
+    <li class="mgn-item">
+      <a class="mgn-site-link" href="https://moz.com/community/q">
+        SEO Q&amp;A
+      </a>
+      <p class="mgn-description">Get answers from the Moz Community.</p>
+    </li>
+    <li class="mgn-item">
+      <a class="mgn-site-link" href="https://moz.com/resources">
+        Free Downloads and More
+      </a>
+      <p class="mgn-description">Quick access to whitepapers, reports, guides, webinars, and case studies.</p>
+    </li>
+    <li class="mgn-item">
+      <a class="mgn-site-link" href="https://moz.com/help">
+        Help Hub
+      </a>
+      <p class="mgn-description">Learn how to use Moz products.</p>
+    </li>
+    <li class="mgn-item">
+      <a class="mgn-site-link" href="https://moz.com/community">
+        Community &amp; Events
+      </a>
+      <p class="mgn-description">Connect with over 600k online marketers.</p>
+    </li>
+    <li class="mgn-item">
+      <a class="mgn-site-link" href="https://moz.com/training">
+        SEO Training
+      </a>
+      <p class="mgn-description">Instructor-led classes and seminars</p>
+    </li>
+  </ul>
+</div>
+  </div>
+  <div class="mgn-dropdown  mgn-dropdown-pro mgn-disabled">
+<div class="mgn-inner mgn-hide-pro">
+  <div class="mgn-center mgn-ad">
+    <p class="mgn-description">An all-in-one SEO toolset to boost your search engine rankings.</p>
+    <a class="mgn-btn mgn-btn-yellow" href="https://moz.com/products/pro">Learn about Moz Pro</a>
+  </div>
+  <hr>
+  <span class="mgn-header">Get Started Free</span>
+  <ul class="mgn-tools-list">
+    <li class="mgn-item">
+      <a class="mgn-site-link" href="https://moz.com/link-explorer">
+        Link Explorer
+      </a>
+      <p class="mgn-description">The ultimate link analysis tool, complete with competitor insights.</p>
+    </li>
+    <li class="mgn-item">
+      <a class="mgn-site-link" href="https://moz.com/explorer">
+        Keyword Explorer
+      </a>
+      <p class="mgn-description">Discover and prioritize the best keywords for your site.</p>
+    </li>
+    <li class="mgn-item">
+      <a class="mgn-site-link" href="https://moz.com/tools/seo-toolbar">
+        MozBar
+      </a>
+      <p class="mgn-description">Get live page metrics right in your Chrome browser.</p>
+    </li>
+  </ul>
+</div>
+<div class="mgn-inner mgn-show-pro">
+    <div class="mgn-product-header">
+      <a class="mgn-site-link" href="https://analytics.moz.com/pro">
+        Moz Pro Home
+      </a>
+      <p class="mgn-description">
+      </p>
+      <hr>
+    </div>
+    <div class="mgn-product-header">
+      <a class="mgn-site-link" href="https://analytics.moz.com/pro/manage-campaigns">
+        Campaigns
+      </a>
+      <p class="mgn-description">
+        Monitor your SEO performance and get insights to increase organic traffic.
+      </p>
+      <hr>
+    </div>
+    <div class="mgn-product-header mgn-show-lma">
+      <a class="mgn-site-link" href="https://analytics.moz.com/pro/local-market-analytics">
+        Local Market Analytics
+        <span class="mgn-badge">BETA</span>
+      </a>
+      <p class="mgn-description">
+        Spot opportunity in target markets with local metrics and top SERP competitors.
+      </p>
+      <hr>
+    </div>
+    <span class="mgn-header">Research Tools</span>
+    <ul class="mgn-tools-list">
+      <li class="mgn-item">
+        <a class="mgn-site-link" href="https://moz.com/explorer">
+          Keyword Explorer
+        </a>
+      </li>
+      <li class="mgn-item">
+        <a class="mgn-site-link" href="https://moz.com/link-explorer">
+          Link Explorer
+        </a>
+      </li>
+      <li class="mgn-item">
+        <a class="mgn-site-link" href="https://moz.com/researchtools/fwe/">
+          Fresh Web Explorer
+        </a>
+      </li>
+      <li class="mgn-item">
+        <a class="mgn-site-link" href="https://analytics.moz.com/pro/research/page-grader">
+          On-Page Grader
+        </a>
+      </li>
+      <li class="mgn-item">
+        <a class="mgn-site-link" href="https://analytics.moz.com/pro/research/crawl">
+          On-Demand Crawl
+        </a>
+      </li>
+      <li class="mgn-item">
+        <a class="mgn-site-link" href="https://analytics.moz.com/pro/research/rankings">
+          Rank Checker
+        </a>
+      </li>
+  </ul>
+</div>
+  </div>
+  <div class="mgn-dropdown  mgn-dropdown-local mgn-disabled">
+<div class="mgn-inner mgn-hide-local">
+  <div class="mgn-center mgn-ad">
+    <p class="mgn-description">Local data management solution to help customers find your business online.</p>
+    <a class="mgn-btn mgn-btn-yellow" href="https://moz.com/products/local">Learn about Moz Local</a>
+  </div>
+  <hr>
+  <span class="mgn-header">Get Started Free</span>
+  <ul class="mgn-tools-list">
+    <li class="mgn-item">
+      <a class="mgn-site-link" href="https://moz.com/checkout/local/check">
+        Check My Online Presence
+      </a>
+      <p class="mgn-description">See how complete and consistent your business’s location appears across the web. </p>
+    </li>
+  </ul>
+</div>
+<div class="mgn-inner mgn-show-local">
+  <span class="mgn-header">Manage Location</span>
+  <ul class="mgn-tools-list">
+    <li class="mgn-item">
+      <a class="mgn-site-link" href="https://moz.com/login/localapp">Dashboard</a>
+    </li>
+    <li class="mgn-item">
+      <a class="mgn-site-link" href="https://moz.com/checkout/local/check">Check Online Presence</a>
+    </li>
+  </ul>
+</div>
+  </div>
+  <div class="mgn-drawer mgn-drawer-mobile mgn-dropdown-mobile mgn-disabled">
+<div class="mgn-container">
+  <form class="mgn-mobile-search" action="https://moz.com/search">
+    <input type="text" class="mgn-input-search" name="q" placeholder="Search...">
+    <button>
+      <svg class="mgn-icon mgn-icon-search" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+        <title>Search</title>
+        <path d="M18 16.94l-5.553-5.554C13.417 10.186 14 8.66 14 7c0-3.86-3.14-7-7-7S0 3.14 0 7s3.14 7 7 7c1.66 0 3.185-.584 4.386-1.553L16.94 18 18 16.94zM7 12.5c-3.032 0-5.5-2.467-5.5-5.5S3.968 1.5 7 1.5s5.5 2.467 5.5 5.5-2.468 5.5-5.5 5.5z"/>
+      </svg>
+    </button>
+  </form>
+  <ul>
+    <li class="mgn-item"><a href="https://moz.com/products">Products</a></li>
+    <li class="mgn-item"><a href="https://moz.com/blog">Blog</a></li>
+    <li class="mgn-item"><a href="https://moz.com/about">About</a></li>
+    <li class="mgn-item"><span>Resources</span>
+      <ul class="mgn-sub-nav">
+        <li class="mgn-sub-item"><a href="https://moz.com/learn/seo">SEO Learning Center</a></li>
+        <li class="mgn-sub-item"><a href="https://moz.com/beginners-guide-to-seo">The Beginner's Guide to SEO</a></li>
+        <li class="mgn-sub-item"><a href="https://moz.com/community/q">SEO Q&amp;A</a></li>
+        <li class="mgn-sub-item"><a href="https://moz.com/resources">Free Downloads and More</a></li>
+        <li class="mgn-sub-item"><a href="https://moz.com/help">Help Hub</a></li>
+        <li class="mgn-sub-item"><a href="https://moz.com/community">Community &amp; Events</a></li>
+        <li class="mgn-sub-item"><a href="https://moz.com/training">SEO Training</a></li>
+      </ul>
+    </li>
+    <li class="mgn-item"><span>Moz Pro</span>
+      <ul class="mgn-sub-nav">
+        <li class="mgn-sub-item mgn-hide-pro"><a href="https://moz.com/products/pro">Learn about Moz Pro</a></li>
+        <li class="mgn-sub-item mgn-show-pro"><a href="https://analytics.moz.com/pro">Moz Pro Home</a></li>
+        <li class="mgn-sub-item"><a href="https://moz.com/link-explorer">Link Explorer</a></li>
+        <li class="mgn-sub-item"><a href="https://moz.com/explorer">Keyword Explorer</a></li>
+        <li class="mgn-sub-item"><a href="https://moz.com/products/pro/seo-toolbar">MozBar</a></li>
+      </ul>
+    </li>
+    <li class="mgn-item"><span>Moz Local</span>
+      <ul class="mgn-sub-nav">
+        <li class="mgn-sub-item"><a href="https://moz.com/products/local">Learn about Moz Local</a></li>
+        <li class="mgn-sub-item"><a href="https://moz.com/checkout/local/check">Check My Online Presence</a></li>
+      </ul>
+    </li>
+    <li class="mgn-item"><a href="https://moz.com/free-seo-tools">Free SEO Tools</a></li>
+    <li class="mgn-item">
+
+        <a href="https://moz.com/login" class="mgn-mobile-login">Log In</a>
+    </li>
+  </ul>
+</div>
+  </div>
+</header>
+  
+      <div class="subnav-wrapper"><nav class="navbar navbar-subnav navbar-toggleable-lg js-subnav theme-pro js-subnav-content"><div class="container"><ul class="nav navbar-nav-primary"><li class="nav-item nav-item-navbar-title"><a class="navbar-subnav-title d-none d-lg-block"
+             href="">
+            Legal
+          </a><a class="navbar-subnav-title d-lg-none navbar-subnav-drawer-toggle js-subnav-drawer-toggle">
+            Legal
+
+            : Terms of Use
+                            
+  
+
+  <svg class="icon small d-lg-none" ><use xlink:href="#icon-delta"></svg></a></li><li class="nav-item nav-item-link active d-none d-lg-block"><a class="nav-link" href="/terms-of-use"><span>Terms of Use</span></a></li><li class="nav-item nav-item-link d-none d-lg-block"><a class="nav-link" href="/privacy-policy"><span>Privacy Policy</span></a></li></ul></div></nav></div><nav class="navbar-subnav-drawer js-subnav-drawer"><div class="container"><div class="row"><div class="col-12"><ul class="nav navbar-subnav-drawer-items"><li class="nav-item nav-item-link active"><a class="nav-link"
+                 href="/terms-of-use"><strong>Terms of Use</strong><br></a></li><li class="nav-item nav-item-link"><a class="nav-link"
+                 href="/privacy-policy"><strong>Privacy Policy</strong><br></a></li></ul></div></div></div></nav><script>
+    mozModules.push(["subnav","subnav-mobile"]);
+  </script><main id="content" role="main"><div class="container"><div class="row"><div class="col-md-9 mx-auto mt-4"><h1 class="h2">Terms of Use</h1><p>Terms of Use (TOU) Effective Date of this version: 24 May 2018. (Prior TOU version dated 14 March 2018.)<br></p><p>Want to contact us about this TOU? Legal issues should be addressed to&nbsp;<a href="mailto:legal@moz.com" target="_blank">legal@moz.com</a>. All other issues should be addressed to&nbsp;<a href="mailto:help@moz.com" target="_blank">help@moz.com.</a></p><p><strong>1.&nbsp;Overview and Important Definitions</strong></p><p>A. This Terms of Use ("TOU") is a legally binding contract between SEOmoz, Inc. ("Moz") and you, as a user of or subscriber to Moz sites or services. The most current versions of the Moz Privacy Policy and Moz Community Etiquette are incorporated into this TOU by this reference, and supersede and replace all prior versions of the same. </p><p>B. Moz offers businesses and individuals access to resources for search engine optimization, online marketing, and online local business listing management, including, without limitation, link analysis tools, downloadable toolbars, application program interfaces ("APIs"), software as a service available on a subscription basis (e.g., Moz Pro and Moz Local), website profile services, search analytics, blogs, user-generated/personalized content tools, industry surveys, and opinion polls (any or all are “Services”). </p><p>C. Moz Services are available from Moz web domains, including, without limitation, Moz.com and MozCast.com ("Sites"). </p><p>D. TOU Acceptance and Agreement; Users and Subscribers.</p><p>(1.) By accessing or using any Sites or Services, or by clicking or checking a box indicating “I agree,” “I accept,” or any similar expression of agreement while purchasing or obtaining access to any portion of any Sites or Services, you agree to be legally bound by this TOU. (Please print a copy of this TOU for your records.) <em>If you do not agree to the TOU, you are not authorized to use and you must cease using any Sites or Services</em>.</p><p>(2.) You may access portions of any Sites or Services with a free account as a user ("User"). While access to certain other portions of the Sites and selected features of the Services is free, Moz may charge fees for features and benefits associated with any Sites or Services at any time. Any User who pays to access or use parts of the Sites or Services is a "Subscriber" in this TOU. References to the terms “you” or “your” in the TOU refer to Users or Subscribers, as applicable. &nbsp;</p><p>(3.) If you accept this TOU on behalf of any other person(s) or organization(s), then you represent to Moz that you are legally authorized to do so, and “you” or “your” therefore also includes those other person(s) or organization(s). </p><p>E. Moz may revise and update this TOU at any time for any reason in its sole and absolute discretion, effective immediately on posting the same to the Sites. The TOU will indicate at the beginning (top of the page) the date on which the current TOU was last revised and effective. It is your responsibility to check the then-current TOU for any changes. YOU AGREE THAT THE MOST RECENT VERSION OF THIS TOU LEGALLY BINDS YOU FOR ANY OF YOUR ACCESS OR USE OF THE SITES AND ANY SERVICES, AND YOU FURTHER AGREE THAT THE MOST RECENT TOU VERSION SUPERSEDES AND REPLACES THE PRIOR VERSION AND BINDS YOU FOR THE ENTIRETY OF ANY UNEXPIRED AND ACTIVE TERMS OF YOUR SUBSCRIPTIONS TO ANY SERVICES. &nbsp;</p><p>F. If you enter into a separate written agreement with Moz, executed physically or digitally (e.g. DocuSign®) by both you and Moz, for you to access or use any Sites or Services (“Other Moz Agreement”), to the extent that the terms of any Other Moz Agreement conflict with the terms of this TOU, the conflicting terms of such Other Moz Agreement will override the conflicting terms of this TOU unless the Other Moz Agreement states the contrary.</p><p><strong>2.&nbsp;Terms and Conditions Governing API Usage</strong></p><p>A. As a Service, Moz may provide application program interfaces and accompanying software code and documentation (any or all are “Mozscape API”) to access and use proprietary Moz information and data about URLs (“Moz Data”). </p><p>B. If Moz provides you any Mozscape API via a secret access key, subject to this TOU, then Moz grants you a worldwide, limited, non-exclusive, non-transferable license to make a reasonable number of copies of and use the Mozscape API to access Moz Data to use other Services. If you use or publicly display any Moz Data accessed with any Mozscape API, you also will comply with any Moz link and attribution guidelines on the Sites from time to time. </p><p>C. You may not resell or redistribute any proprietary Moz API that Moz licensed to you or any Moz Data via your own API or offer it to any third parties.</p><p>D. Moz reserves the right to suspend or terminate access to any Mozscape API at any time and for any reason, with or without cause. If your access to any Mozscape API is suspended or terminated, you have no rights associated with such Mozscape API and you acknowledge that you will not be entitled to any refund or other compensation whatsoever.</p><p><strong>3.&nbsp;Terms and Conditions Governing Software as a Service Use and Subscriptions</strong></p><p>Certain Services include Moz proprietary software as a service accessed and used from the Sites, including Moz Local and Moz Pro; if you are a User of or Subscriber to any such Services, then you are also subject to the following specific terms and conditions. &nbsp;</p><p>A. Terms and Conditions Governing Moz Local Subscriptions</p><p> If you purchase from any of the Sites subscriptions Moz Local to manage business listing information and/or location data using Moz Local, you are subject to the TOU and particularly the following related to your Moz Local subscription(s).</p><p>(1.) Fees. You agree to immediately pay Moz for each managed location for recurring one-year terms beginning on the date of each payment (all payments are "Moz Local Service Fees"). Moz incurs third-party costs for each Moz Local Subscriber immediately after the Subscriber submits data to Moz Local, so you agree that ALL PAYMENTS ARE FINAL and Moz is not obligated whatsoever for any partial or complete refunds, including for any renewal payments described in paragraph (3.) below.</p><p>(2.) Scope of Services. Subject to this TOU (including payment), Moz will distribute data to certain location data aggregators and business listing services and may offer additional reports and tools related to this data. These services are described in greater detail on the Sites.</p><p>(3.) Renewal.&nbsp;Each business location renews annually within 30 days of the anniversary of the previous payment for that location. If your renewal payment fails, you will no longer have any rights under this TOU related to your previously purchased Moz Local business location(s), including the right to manage your business listing, until your payments are current. Failure to renew a listing in a timely manner (prior to the date of annual renewal) will result in loss of any special or custom pricing terms associated with a business location.</p><p>(4.) Pricing Changes.&nbsp;Moz may change its Moz Local Service Fees from time to time; with respect to new pricing for renewals, Moz will provide at least thirty (30) days’ notice by email and/or posting any new fee schedule on the Site for Moz Local.</p><p>(5.) Customer Management of Each Business Location and Listing.</p><p>(a.) Cancellation.&nbsp;You may cancel a managed business location only using the Moz Local dashboard. Cancellation is immediate, irreversible and must occur prior to expiration of the business location term to avoid related renewal fees. Cancellation removes a listing and associated data from your dashboard. Your cancellation of any business location will not under any circumstances entitle you to any complete or partial refunds whatsoever for such cancelled business location.</p><p>(b.) Changes and Updates.&nbsp;You may make unlimited changes and updates to business location data during the related term. However, if you make changes to core data &mdash; such as domain name, phone number, or location address &mdash; that Moz is unable to validate using third-party services such as Google or Facebook, Moz may not be able to update your changes with location data aggregators and business listing services following submission. This validation policy protects you and other customers from having business locations listing data hijacked by unauthorized agents.</p><p>(6.) Additional Moz Local Subscriber Obligations and Acknowledgements. You acknowledge and agree as follows:</p><p>(a.) By purchasing Moz Local listings, you warrant that you own each listing or are otherwise authorized to represent the business location as of when you pay the related Moz Local Service Fees.</p><p>(b.) To periodically review and confirm the accuracy of submitted business listing information.</p><p>(c.) Moz may occasionally require you to submit proof by email of authorization to represent a Moz Local business location, and failure to comply with any request may result in cancellation of your listing(s). </p><p>(d.) Your business location listing(s) may be transferred to another person or entity if that person or entity can sufficiently demonstrate resulting ownership (no such transfer will result in any refunds, however).</p><p>(e.) Another agent may submit information to Moz Local or a location listing provider which may override information you submitted about a business location.</p><p>(f.) The Moz Local Services send location data to third-party location listing providers who may use this data in any way, and Moz cannot control their use once the data is sent to them.</p><p>(g.) Location data aggregators and business listing services are not obligated to accept your listing, or any of the information you submit via Moz Local related to a business location.</p><p>(h.) Moz reserves complete right and discretion to change the mix of Moz Local location data aggregators and business listing services.</p><p>B.&nbsp;Terms and Conditions Governing Subscriptions to All Other Moz Software as a Service</p><p>These Services also include subscriptions to Moz Pro and other software as a service offerings (e.g., Content, Analytics, etc.), and are subject to the TOU and the following obligations specific to Moz Pro and such other software as a service offerings by Moz.</p><p>(1.) Subscription Payment.&nbsp;Subscribers must agree to the payment terms presented at the time you sign up for any Services. You are responsible for acting prior to renewal if you do not want to renew automatically. You may not receive notice of your renewal after subscribing, and you must visit your Subscription and Billing page to find out when your subscription renews. Subscriptions recur either monthly or annually in most cases, depending on the renewal term you choose on signup. You must ensure that the credit card information used for your account or subscription is current and accurate, and that you are authorized to use that credit card. Moz may implement fraud-protection measures anytime including, without limitation, temporarily charging small amounts to validate your credit card and authorization.</p><p>(2.) Subscription Cancellation.&nbsp;For security, an email or phone call to Moz is not sufficient to cancel your Services subscription. You may cancel at any time by selecting the cancel button on your Subscription and Billing page. Cancellation does not entitle you to any refund whatsoever. You will continue to have access to the Sites and Services you have paid for until the end of your subscription term, but will lose access if the subscription is not in good standing.</p><p>(3.) No Refunds.&nbsp;Moz will not provide you any refunds at any time. If you cancel your subscription, Moz is not obligated to refund fees for any portion of your subscription term. If you choose to downgrade your subscription during your subscription term, you may be entitled to a pay a lower, prorated amount as of the date of renewal, but you are not entitled to any refund at any time.</p><p>(4.) Multiple Subscriptions.&nbsp;Each subscription has a credit card associated with it. If a subscription is suspended for inability to process that credit card, and you subscribe to a second Moz Service while that first Service is suspended (e.g. changing the credit card for the new subscription) but before the original subscription is cancelled (currently 18 days, subject to change), Moz may use the valid payment credit card for the second subscription to reinitiate the suspended Service.</p><p><strong>4.&nbsp;Terms and Conditions Governing All Users of and Subscribers to Sites or Services</strong></p><p>A. The Services are available only to Users and Subscribers who:</p><ol><li>Are human (not bots, except for certain authorized API users) and with minimum ages of 13 years old for Users and 18 years old for Subscribers;</li><li>Submit and then maintain truthful and accurate account information;</li><li>Do not impersonate any other person or entity or otherwise misrepresent their identity in a profile or elsewhere on the Sites;</li><li>Have a valid email address; and</li><li>Do not to authorize third parties unaffiliated through an employer-employee or entity ownership relationship to use their account, profile, or messages or otherwise resell the Services to multiple unaffiliated persons or parties (e.g. “group buys” or “buyers’ clubs”).</li></ol><p>B. You agree that you have or will enter into agreements with your individual users who access any Sites or Services on your behalf that protect Moz, and any Moz Content, Sites, or Services as much as this TOU.</p><p>C. If Moz, through any Sites, Services, or otherwise, provides you user authentication and access tools (i.e., user name, password, access keys, etc.) for secure access to any Site or Services, you agree to keep that account access information protected, secure, and confidential, and not share it with others in any way that breaches this TOU. You agree that Moz in its sole and absolute discretion may block you from any secure and restricted parts of any Sites or Services. You also agree to notify Moz immediately of any unauthorized access to or use of secure and restricted parts of any Sites or Services that you (including but not limited to any of your users) know or should reasonably know about.</p><p>D. You agree that your rights in a subscription or use of any paid Services (including, for example, the ability to change a password associated with a Moz Pro account) may depend on demonstrating that you have paid for the subscription to any applicable Services or Sites.</p><p>E. You acknowledge that if you sign up for any Services and pay via credit card, and Moz cannot charge your credit card at renewal, Moz may cancel your subscription and you may lose access to the Services and any data associated with your subscription.</p><p>F. While some Services may be paid for via invoice pursuant to an Other Moz Agreement, Moz may quote additional fees for invoiced accounts. If Moz has entered into an invoicing relationship with you, the following terms apply unless superseded by an Other Moz Agreement: You agree to pay all undisputed invoices within 30 days. You agree that Moz may charge interest of 1.5% per month for past due invoices, or the highest rate permitted by law, and you are liable for reasonable attorney fees and collection costs arising from Moz's efforts to collect on past due amounts. If you fail to pay an invoice, Moz reserves the right to cancel your subscription and access to any Sites or Services, and any data associated with your subscription or the Services.</p><p>G. Taxes. The price, fees, and other amounts payable to Moz under this TOU do not include any sales, use, or other similar taxes assessed or imposed by any governmental authority. With regard to such amounts, you will pay or reimburse Moz for all such charges as invoiced or provide certificates or other evidence of exemption.</p><p>H. You acknowledge that portions of the Sites and Services are publicly available or available to other Users and may be accessible by syndication programs (including data feed tools), search engines, metasearch tools, crawlers, metacrawlers, and other similar programs.</p><p>I. Moz reserves the right to monitor your communications to the extent they are facilitated by any Sites or Services, and may disclose content and information about you, including content contained within your communications, if Moz deems it reasonably necessary to: (1.) conform to legal requirements or respond to legal process; (2.) ensure your compliance with this TOU, the Moz Privacy Policy, and/or the Moz Community Etiquette; or (3.) protect the rights, property, personal safety, or interests of Moz, its employees, customers, or the public.</p><p><strong>5.&nbsp;User Obligations Regarding User-Generated Content</strong></p><p>You assume the following obligations with respect to any information, profiles, data, text, links, articles, software, photographs, graphics, video, music, sound, messages, or other materials that a you upload, publish, or display on or through any Sites or Services, whether publicly posted or privately transmitted (“User-Generated Content”):</p><ul><li>You assume legal responsibility for all your User-Generated Content.</li><li>You agree that no proprietary rights including but not limited to copyright, trademark, trade secret, publicity or privacy rights, or any other intellectual property rights are being violated by your posting, transmission or sharing of any User-Generated Content via any Sites or Services.</li><li>You agree not to post, transmit, or share User-Generated Content on any Sites or Services that you:</li><ul><li>Lack authority or permission to post, transmit, or share, or </li><li>That violates in any way the rights of other persons or solicits, encourages, or promotes illegal activities, including but not limited to activities that threaten, abuse in any way, harass, defame, libel, disparage, invade the privacy or publicity rights of other persons or that are vulgar, obscene, bigoted or hateful, profane, scandalous, obscene.</li></ul></ul><p><strong>6.&nbsp;No Moz Responsibility for User-Generated Content</strong></p><p>Moz assumes no obligations to screen and does not routinely pre-screen any User-Generated Content that you upload, publish, or display on or through any Sites or Services. Moz does not guarantee the accuracy, integrity, appropriateness, quality, or validity of any User-Generated Content. User Generated Content does not necessarily represent the views or opinions of Moz and under no circumstances whatsoever will Moz be liable for any User-Generated Content, including without limitation liability related to any loss or damage of any kind incurred from using any User-Generated Content uploaded, published, or displayed on or through any Sites or Services. Only you are solely responsible (at your own expense) for creating backup copies and replacing any of your User-Generated Content. While you agree that Moz is not obligated to, Moz may remove any User-Generated Content at any time at its sole discretion, including User-Generated Content that in Moz’s sole judgment violates this TOU or is offensive, illegal, or violates the rights of any person or entity, or harms or threatens the safety of any person or entity. Moz assumes no obligation to maintain or store any User-Generated Content. Moz may delete, modify, or restrict the display of User-Generated Content at any time for any reason, including but not limited to a change in Subscriber account level, Services cancellation, violation of the TOU, or violation of the Moz Community Etiquette; once deleted, User-Generated Content may not be retrieved.</p><p><strong>7.&nbsp;Moz's Permitted Use of User-Generated Content and User Data</strong></p><p>A. Moz does not claim ownership of User-Generated Content. Subject to the rights granted to Moz in this TOU, you retain full ownership of all of User-Generated Content to the extent you would otherwise have intellectual property or other proprietary rights associated with it.</p><p>B. You authorize Moz to use and copy any User-Generated Content that you upload, publish, or display on or through any Sites or Services as Moz deems necessary to facilitate the posting and storage of such User-Generated Content.</p><p>C. You further authorize Moz to anonymize and aggregate User-Generated Content and any other data you share with Moz (“User Data”), including data associated with your Google Analytics and social media profiles, and by way of example and not limitation, to provide current or future services and for benchmarking, research and development, data products, or other marketing purposes. By uploading, publishing, or displaying User Data on or through any Sites or Services (including authorization to access any third-party account or profile), you grant Moz, its affiliates, and partners an irrevocable, perpetual, worldwide, royalty-free, non-exclusive license (with the right to sublicense) to use anonymized and aggregated User-Generated Content and User Data, in all present and future media, and in any manner relating to Moz’s business including to provide any Sites or Services.</p><p>D. For any User-Generated Content that you upload, publish, or display on or through any community portions of the Sites ("Interactive Content"), including without limitation your User Profile, YouMoz, the Moz Blog, and the Q&A service, and any future Moz Sites or Services that are designed to be viewed by the public or other Subscribers, you grant to Moz, its affiliates, and partners an irrevocable, perpetual, worldwide, royalty-free, non-exclusive, transferable license (with the right to sublicense) to use, reproduce, translate, alter, publicly perform, publicly display, modify, adapt, publish, excerpt (in whole or in part), and distribute such Interactive Content, in whole or in part, in all present and future media and in any manner relating to Moz’s business (including, without limitation, on the sites of our affiliates, partners, and others with whom Moz may have business relationships relating to any Sites or Services). You further agree that Moz is free to use any ideas, know-how, concepts, techniques, or other materials implied by Interactive Content. You acknowledge that Moz may retain archived copies of such Interactive Content. Subject to the preceding, you may remove Interactive Content from the Sites at any time.</p><p>E. Except for the rights to access and use the Services expressly granted to you by this TOU, Moz retains all right, title, and interest in and to any Sites or Services, including all related intellectual property rights. Any Sites or Services are protected by applicable intellectual property laws in the US and internationally. No grant or transfer of any right, title, or interest to you shall be implied. Notwithstanding anything to the contrary, upon termination or expiration of this TOU as applicable to you, all rights and licenses granted to you under this TOU shall terminate.</p><p><strong>8.&nbsp;Services Limitations; Availability</strong></p><p>Moz may limit use of any Sites or Services at its discretion, including the frequency with which you may access any Sites or Services or your ability to post User-Generated Content. Moz reserves the right to modify, update, interrupt, suspend or discontinue, temporarily or permanently, all or a part of any Sites or Services without notice. You agree that Moz shall not be liable to you or to any third party for any modification, suspension, or discontinuance of any Sites or Services. You are also responsible for providing all equipment you use to access any Sites or Services.</p><p><strong>9.&nbsp;User Feedback and Beta Services</strong></p><p>A. “Feedback” means any ideas, suggestions, or comments that you provide to Moz related to any Sites, Services, or any other Moz technologies, products, service, or business activities (in beta, pre-release, or released versions). You agree that you have no expectation of, and Moz has no obligations for, confidentiality or privacy in any Feedback. You grant Moz a worldwide, non-exclusive, perpetual, irrevocable, royalty-free, fully paid, sublicensable and transferable license to use, modify, reproduce, distribute, display, publish, or perform any Feedback and to make, have made, sell, offer to sell, and import any products, services, or materials existing now or in the future that include or incorporate any of your Feedback, including but not limited to any Sites or Services.</p><p>B. From time to time, Moz may add new features to the Services that may be described as "beta" services or features (collectively, "Beta Features"). Beta Features will be considered part of the Sites or Services and all provisions of this TOU relating to any Sites or Services will apply to the Beta Features as well. Users acknowledge that Beta Features may be untested, non-functional, and/or partially functional features of the Sites or Services. If you use a Beta Feature, you do so at your own risk. Notwithstanding anything else in this TOU to the contrary, Beta Features are provided “AS IS” and Moz disclaims any warranties associated with any Beta Feature. You assume and bear any risk that Beta Features may harm or interrupt operation of your software or hardware.</p><p><strong>10.&nbsp;Services Credits</strong></p><p>Moz occasionally and in its sole discretion may offer Subscribers opportunities to earn credits toward future Services ("Service Credits"), including, for example, Service Credits for new Subscriber referrals. Service Credits may be revoked at any time and for any reason at Moz's discretion, and are never redeemable for cash, exchanged, sold, or rolled into a separate account. Reasons why Moz might exercise discretion and revoke and void Service Credits include but are not limited to a referred account that is not an actual person or company, is otherwise not in good standing, or was fraudulently obtained. Moz in its sole discretion may also undertake other actions (such as terminating your subscription or banning you from any future referral program) for such behavior. Unused credits may expire at the discretion of Moz.</p><p><strong>11.&nbsp;Trademarks; Copyrights; Proprietary Rights; and Use Restrictions</strong></p><p>A. As between you and Moz, other than User-Generated Content, Moz owns all right, title, and interest in any Sites or Services, including without limitation the visual interfaces, interactive features, graphics, design, compilation, computer code, products, software, and all other elements and components of any Sites or Services ("Moz Content"). </p><p>B. Moz owns the copyrights, trademarks, service marks, trade names, and other intellectual property and proprietary rights throughout the world associated with Moz Content, the Sites, and the Services. Moreover, the term “Moz” and anything on the Sites that identifies or distinguishes Moz from any other goods and services are registered or unregistered trademarks of Moz (the "Moz Trademarks"). Except as otherwise permitted by law, you agree not to display or use in any manner the Moz Trademarks without Moz's prior written consent.</p><p>C. Subject to any of your rights under applicable law (e.g. as a licensee of software under applicable legislation deriving from EU Directive 2009/24/EC, if applicable), you shall not, nor shall you assist anyone else to: (1.) modify, distribute, adapt, decompile, disassemble, reverse-assemble, reverse-engineer, or prepare derivative works from any computer code or any other materials relating to Moz Content or other Moz technology; (2.) use, evaluate, or view Moz Content for the purpose of designing, modifying, or otherwise creating any software program, or any portion thereof, that performs functions similar to the functions performed by any Services, or to compete with Moz; (3.) knowingly access or use Moz Content in a manner that abuses or disrupts the Moz networks, security systems, user accounts, or any Sites or Services or those of any third party, or attempt to gain unauthorized access to any of the above through unauthorized means; (4.) market, offer to sell, and/or resell any Services unless authorized in an Other Moz Agreement or other written agreement executed on behalf of Moz by its authorized representative; (5.) use Moz Content in violation of this TOU or Other Moz Agreement, or any Moz policies, applicable laws, ordinances, or regulations; (6.) use any Sites or Services to send unsolicited or unauthorized advertising, junk mail, or spam; (7.) harvest, collect, or gather information or data regarding other Moz users without their consent; (8.) transmit through or upload on any Sites or Services any material that may infringe the intellectual property or other proprietary rights of third parties, including any trademark, copyright, data privacy, or right of publicity; (9.) transmit or post on any Sites or Services any material that contains software viruses or other malicious or harmful computer code, files, or programs; (10.) remove, alter, or obscure any proprietary notices (including copyright notices) on any portion of Moz Content; (11.) circumvent or disable any usage rules or other security features for or used by any Sites or Services; or (12.) disclose, reproduce, summarize, distribute, or use any Sites or Services except as necessary to exercise the rights granted to you in this TOU. Moz shall have sole and exclusive discretion to determine violations of these restrictions and then may immediately suspend your account and access to any Sites or Services for violations of these restrictions.</p><p>D. Except for your rights to access and use any Sites or Services and the Moz Content expressly granted by this TOU, Moz retains all right, title, and interest in and to Moz Content and any Sites or Services, including all related intellectual property rights. Moz Content and any Sites or Services are protected by applicable intellectual property laws in the US and internationally. No grant or transfer of any right, title, or interest to you shall be implied. Notwithstanding anything to the contrary, on termination or expiration of this TOU, all rights and licenses granted to you under this TOU shall terminate.</p><p><strong>12.&nbsp;Copyright Infringement</strong></p><p>If you believe that your work has been used related to this TOU in a way that constitutes copyright infringement, or your intellectual property rights have been otherwise violated, please notify Moz at&nbsp;<a href="mailto:legal@moz.com">legal@moz.com</a>&nbsp;or contact Moz's copyright agent as follows:</p><p>Attention Chief Financial Officer, SEOmoz, Inc., 1100 2nd Ave #500, Seattle, WA 98101, Phone: (206) 602-2005.</p><p>You must provide all of the following in writing: identify the copyrighted work that you claim has been infringed (or if multiple copyrighted works, then a representative list of such works); identify the content on the Services that you claim is infringing with enough detail so that Moz may locate it; your statement that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; your statement declaring that the notification is accurate, and, under penalty of perjury, that you are the exclusive owner of the copyright interest involved or that you are authorized to act on behalf of the exclusive owner; information reasonably sufficient to permit Moz to contact you, i.e. address, telephone number, and email address; and your physical or electronic signature.</p><p>On receiving your above notice, Moz will take whatever action, in its sole discretion, it deems appropriate, including removal of the disputed use from the Sites or Services or termination of the posting account.</p><p><strong>13.&nbsp;User Indemnification of Moz for Certain Actions</strong></p><p>You agree to indemnify and hold Moz and its affiliates, officers, agents, subsidiaries, partners, and employees harmless from any loss, liability, claim, or demand, including reasonable attorneys' fees, made by any third party arising from (1.) User-Generated Content or User Data you post, transmit, or make available through any Sites or Services; (2.) your unauthorized use of any Sites or Services; (3.) your connection to the Services, including your use of the Services, to provide a link to upload content or other information to other websites; or (4.) your violation of the TOU (including the Privacy Policy or Moz Community Etiquette); or (5.) your violation of any third party’s rights, including but not limited to any intellectual property rights.</p><p><strong>14. Warranties and Limitations</strong></p><p>Each party warrants and represents that it shall comply with all applicable laws and regulations in performing its obligations under this TOU. EXCEPT FOR ANY EXPRESS WARRANTY IN THIS TOU, MOZ AND ITS THIRD-PARTY SUPPLIERS HEREBY DISCLAIM ALL EXPRESS OR IMPLIED WARRANTIES REGARDING ANY MOZ CONTENT, SITES, OR SERVICES, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND QUALITY. MOZ AND ITS THIRD-PARTY SUPPLIERS MAKE NO REPRESENTATIONS OR WARRANTIES WHATSOEVER REGARDING THE RELIABILITY, AVAILABILITY, TIMELINESS, SUITABILITY, ACCURACY, OR COMPLETENESS OF ANY SITES OR SERVICES OR THE RESULTS YOU MAY OBTAIN FROM THEIR USE. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, MOZ AND ITS THIRD-PARTY SUPPLIERS DO NOT REPRESENT OR WARRANT THAT (1.) THE OPERATION OR USE OF ANY SITES OR SERVICES WILL BE TIMELY, UNINTERRUPTED, OR ERROR-FREE, OR (2.) THE QUALITY OF ANY SITES OR SERVICES WILL MEET YOURS OR ANY OTHER REQUIREMENTS. YOU ACKNOWLEDGE THAT NEITHER MOZ NOR ITS THIRD-PARTY SUPPLIERS CONTROL THE TRANSFER OF DATA OVER COMMUNICATIONS FACILITIES, INCLUDING THE INTERNET, AND THAT ANY SITES OR SERVICES MAY BE SUBJECT TO LIMITATIONS, DELAYS, AND OTHER PROBLEMS INHERENT IN THE USE OF SUCH COMMUNICATIONS FACILITIES, AND THEREFORE NEITHER MOZ NOR ANY OF ITS THIRD-PARTY SUPPLIERS ARE RESPONSIBLE FOR ANY DAMAGE RESULTING FROM SUCH PROBLEMS. EXCEPT WHERE EXPRESSLY PROVIDED OTHERWISE BY MOZ, ANY SITES OR SERVICES ARE PROVIDED TO YOU “AS IS” AND “AS AVAILABLE.” Users or Subscribers may have additional rights as a consumer under local law that this TOU cannot change. </p><p><strong>15. THIRD-PARTY SOFTWARE; LIABILITY LIMITATION; EXCLUSIVE REMEDIES FOR USERS AND SUBSCRIBERS</strong></p><p>A. Third-Party Software. You are solely and entirely responsible for any third-party software that you obtain and use in connection with any Sites or Services. Moz exercises no control over such third-party software, and is not responsible for its performance. Your purchase or use of such software shall be governed by the terms and conditions of such third parties, and you may therefore be asked to accept terms and conditions at the time of purchase and/or access. Moz is not responsible or liable, directly or indirectly, for any damage or loss caused to you by use of or reliance on any third-party software. You are responsible for all fees charged to you by third parties, or such software or other services you require related to accessing or using any Sites or Services. You are responsible for obtaining all licenses for third-party software for your use with any Sites or Services. If Moz believes that you lack necessary rights to use any third-party software that you depend on or use with any Sites or Services, Moz may suspend or terminate your access to such Sites or Services.</p><p>B. EXCLUSIONS OF CERTAIN DAMAGES AND LIMITATIONS OF LIABILITY. You agree that these exclusions of damages and limitations of liability are a fundamental element of the parties’ agreements in this TOU.</p><p>(1.) Under no circumstances will Moz or any of its third-party suppliers or any of their respective affiliates be responsible for any loss or damage resulting from your reliance on information or other content posted on the Sites or transmitted to or by you or any other Users or Subscribers.</p><p>(2.) TO THE EXTENT PERMITTED BY APPLICABLE LAW, NEITHER MOZ NOR ANY OF ITS THIRD-PARTY SUPPLIERS SHALL BE LIABLE TO YOU OR ANYONE ELSE, INCLUDING BUT NOT LIMITED TO ANY ORGANIZATIONS, FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO: DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES RESULTING FROM ANY ACCESS TO OR USE OF ANY SITES OR SERVICES, WHETHER BASED ON BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE), OR ANY OTHER LEGAL THEORY, EVEN IF MOZ OR ANY OF ITS THIRD-PARTY SUPPLIERS WERE ADVISED THAT SUCH DAMAGES WERE POSSIBLE. The disclaimer in the preceding sentence includes any damages arising from your inability to access or use any Sites or Services (including due to modification, suspension, blocking, discontinuance, cancellation, or termination of any Services or any part thereof). Without limiting the foregoing, you specifically acknowledge and agree that neither Moz nor any of its third-party suppliers is liable for the defamatory, offensive, infringing, breaching, fraudulent, or illegal conduct of other users, subscribers, or third parties and that any risk from the foregoing are assumed entirely by you. These limitations apply to any matter related to any Sites, Services, or their content; third-party Internet sites, programs, or conduct; viruses or other disabling features; incompatibility between any Sites or Services and other services, software, or hardware; and any delay or failure in initiating, conducting, or completing any transmission or transaction connected with any Sites or Services in an accurate or timely manner. </p><p>(3.) Limitation of Liability. Any liability of Moz or any of Moz’s third-party suppliers of any kind arising out of or related to this TOU (including but not limited to warranty claims) or any of your use of the Sites or Services, regardless of the forum and whether any action or claim is based on breach of contract, breach of warranty, tort (including negligence), or any other legal theory, shall not exceed the greater of (a.) the total amount paid by you to Moz to access or use any Sites or Services giving rise to such liability during the six (6) months immediately preceding the date the liability arose or (b.) twenty United States dollars (USD$20.00). </p><p>(4.) This Section 15.B. applies even if this remedy does not fully compensate you for any losses or fails its essential purpose; or even if Moz or any of its third-party suppliers knew or should have known about the possibility of the losses, liability, or damages. Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, or limitation of liability for certain claims or causes of action, so the above limitations or exclusions may not apply to you in these jurisdictions.</p><p><strong>16.&nbsp;Special Admonitions for International Use</strong></p><p>A. Your Internet use may be global; thus, you agree to comply with all local rules and laws regarding your access and use of any Sites or Services through the Internet, and without limitation, you will comply with all applicable laws regarding obscene and indecent content and transmitting technical data exported from the United States or the country in which you reside.</p><p>B. With respect to any personal data (as defined under the&nbsp;<strong>General Data Protection Regulation</strong>&nbsp;[<strong>GDPR</strong>] [EU] 2016/679 and any other applicable data protection legislation) (“Personal Data”) which Moz processes on your behalf, Moz Pro does not process any Personal Data as a part of its core function and Moz Local would only process Personal Data in the unlikely event that the business listing and location information managed by Moz Local were to include the Personal Data of data subject. Thus, Moz is more typically the Data Controller and is not a Data Processor to Personal Data in which you are a Data Controller. However, in the unlikely event that you believe Moz is a Data Processor to you as a Data Controller, please contact Moz at <a href="mailto:legal@moz.com">legal@moz.com</a>, and Moz can consider if it is necessary under applicable law for you to appoint Moz as a Data Processor pursuant to an appropriate Data Processor agreement/addendum.</p><p><strong>17. Termination</strong></p><p>Upon termination of Services, any payment liabilities owed to Moz and accrued prior to the effective date of the termination will survive. In addition to any obligations or restrictions in the TOU that by their nature should reasonably survive termination of this TOU, the following sections shall also survive termination of this TOU: 1.A., 1.D.(1.), 1.D.(3.), 1.F., 2.C., 3.A.(1.), 3.A.(6.)(a.), 3.B.(1.), 3.B.(3.), 4.C., 4.F., 4.G., 4.J., 5., 6., 7.C. to 7.E., 8., 9., and 11. to 18. You are solely responsible for removing your information and material from any Sites or Services prior to any termination. Moz is not obligated to retain your information, material, or data following termination.</p><p><strong>18.&nbsp;Miscellaneous Clauses</strong></p><p>A. Changes to Services. Moz may change any Sites or Services from time to time, with or without notice, by adding, modifying, suspending, or discontinuing features of such Sites or Services. Your access to and use of any Sites or Services depends on you complying with any applicable laws or this TOU.</p><p>B. Force Majeure. Neither you nor Moz will be liable to the other for any delay or failure to perform any obligation under this TOU if the delay or failure is due to circumstances beyond such party’s reasonable control. The affected party will notify the other party of such event and resume performance as soon as reasonably practicable.</p><p>D. Notices. If Moz must send you additional information regarding the TOU or any Sites or Services, you consent to receiving this information electronically. Moz may provide required information to you by email at any address you registered with the Sites or Services or via posting on the Sites or Services. Notices provided to you via email are effective on the transmission date. You will provide Moz any written notice under this TOU by email to <a href="mailto:legal@moz.com">legal@moz.com</a>. </p><p>E. Forum and Jurisdiction. This TOU is governed by the laws of the State of Washington, USA, without regard to its conflict of law provisions. You irrevocably consent to the exclusive jurisdiction of the state and federal courts located in King County, Washington, USA to resolve any dispute, claim, or controversy that arises from this TOU.</p><p>F. Additional Rights and Obligations. This TOU shall neither obligate Moz, nor provide any rights, to any third-party whatsoever as an intended third-party beneficiary under this TOU. You and Moz are independent contractors without authority to bind each other or to make any representations on behalf of the other party, and you and Moz shall not be held to be partners or co-venturers. If any provision of this TOU is held invalid or unenforceable, such provision shall be held superseded by a valid, enforceable provision that most closely matches the intent of the original provision; the remaining provisions will remain in full force and effect. Any party's failure to act with respect to a breach of this TOU does not constitute a waiver or affect that party's rights to act subsequently. You may not assign rights or delegate any duties under this TOU without prior written notice to and consent by Moz. This TOU will bind any permitted successors and permitted assigns.</p><p>G. Entire Agreement. The TOU (along with the Privacy Policy, Moz Community Etiquette, and any Subscriber agreement or other agreement accepted by you and an authorized representative of Moz that is incorporated by reference into the TOU) constitutes the entire agreement between you and Moz and governs your access to and use of any Sites or Services, superseding any prior agreements between you and Moz (including, but not limited to, any prior versions of the TOU). In no case shall any terms on a purchase order or other non-Moz ordering document from you apply to, in addition to, or otherwise be included in the provisions of this TOU without Moz’s prior written consent and agreement. No modification of this TOU is binding unless it is in writing and signed by you and Moz.</p><p></p><p>Updated October 19, 2018</p></div></div></div></main>  
+        <div id="wrap-footer"></div>
+    </div>
+  
+      <footer id="globalfooter" class="mgn-footer ">
+
+    <div class="mgn-footer-skinny">
+      <div class="mgn-container">
+        <div class="mgn-logo">
+          <a href="https://moz.com">
+            <svg aria-labelledby="moz-logo-title-footer" class="mgn-moz-logo" role="img">
+              <title id="moz-logo-title-footer">Moz</title>
+              <path d="M71 16L82.99 3h-25.1c-.48.018-.866.4-.89.882v2.736C54.697 2.696 49.97 0 44.5 0 38.036 0 32.61 3.76 31 8.863V3h-4.38c-1.043.015-1.957.478-2.62 1.177l-8.498 9.325L7 4.177C6.34 3.477 5.427 3.015 4.383 3H0v19h5.117c.492-.024.863-.42.883-.91V12l9.5 10.5L25 12v9.09c.017.49.415.886.905.91H31v-6.863C32.61 20.24 38.036 24 44.5 24c7.732 0 14-5.373 14-12 0-1.038-.17-2.04-.46-3H69L57 22h25.104c.48-.018.872-.403.896-.884V16H71zm-26.452 1.96c-3.764 0-6.818-2.668-6.818-5.96 0-3.293 3.053-5.96 6.818-5.96 3.768 0 6.822 2.668 6.822 5.96s-3.053 5.96-6.822 5.96z"/>
+            </svg>
+          </a>
+        </div>
+
+        <ul class="mgn-links">
+          <li>
+            <a href="https://moz.com/about/contact">Contact</a>
+          </li>
+          <li>
+            <a href="https://moz.com/products">Products</a>
+          </li>
+          <li>
+            <a href="https://moz.com/products/api">API</a>
+          </li>
+          <li>
+            <a href="https://moz.com/moz-pro-free-trial">Free Trial</a>
+          </li>
+          <li>
+            <a href="https://moz.com/privacy-policy">Terms &amp; Privacy</a>
+          </li>
+          <li>
+            <a href="https://moz.com/about/jobs">Jobs</a>
+          </li>
+          <li>
+            <a href="https://moz.com/help">Help</a>
+          </li>
+          <li>
+            <a href="https://moz.com/about/news">News &amp; Press</a>
+          </li>
+        </ul>
+
+        <div class="mgn-copyright">
+          Copyright <span id="js-copyright-year">2020</span> &copy; Moz, Inc.  All rights reserved.
+        </div>
+
+      </div>
+    </div>
+
+    <a class="mgn-footer-back-to-top-arrow" href="#">
+      <svg class="mgn-icon mgn-icon-delta" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+        <polygon points="13.586,12.206 8,6.623 2.414,12.206 1,10.792 8,3.794 15,10.792"/>
+      </svg>
+    </a>
+
+    <a class="mgn-footer-back-to-top" href="#">Back to Top</a>
+
+<div class="mgn-footer-fat">
+  <div class="mgn-container">
+    <div class="mgn-row">
+      <ul class="mgn-col mgn-links">
+        <li>
+          <strong>SEO Tools</strong>
+        </li>
+        <li>
+          <a href="https://moz.com/explorer">Keyword Research</a>
+        </li>
+        <li>
+          <a href="https://moz.com/products/pro/site-crawl">SEO Audit &amp; Crawl</a>
+        </li>
+        <li>
+          <a href="https://moz.com/link-explorer">Backlink Research</a>
+        </li>
+        <li>
+          <a href="https://moz.com/products/pro/rank-tracking">Rank Tracking</a>
+        </li>
+        <li>
+          <a href="https://moz.com/products/pro/seo-toolbar">SEO Toolbar</a>
+        </li>
+        <li>
+          <a href="https://moz.com/domain-analysis">Domain Analysis</a>
+        </li>
+      </ul>
+
+      <ul class="mgn-col mgn-links">
+        <li>
+          <strong>Local Marketing</strong>
+        </li>
+        <li>
+          <a href="https://moz.com/checkout/local/check">Business Listings Audit</a>
+        </li>
+        <li>
+          <a href="https://moz.com/products/local/citation-cleanup-whitepaper">Citation Cleanup</a>
+        </li>
+        <li>
+          <a href="https://moz.com/local-search-ranking-factors">Local Ranking Factors</a>
+        </li>
+      </ul>
+
+      <ul class="mgn-col mgn-links">
+        <li>
+          <strong>Marketing Resources</strong>
+        </li>
+        <li>
+          <a href="https://moz.com/blog">Moz Blog</a>
+        </li>
+        <li>
+          <a href="https://moz.com/beginners-guide-to-seo">Beginner’s Guide To SEO</a>
+        </li>
+        <li>
+          <a href="https://moz.com/community/q">Community Q&amp;A</a>
+        </li>
+        <li>
+          <a href="https://moz.com/training">Workshops &amp; Training</a>
+        </li>
+        <li>
+          <a href="https://moz.com/community/recommended">Recommended SEO Companies</a>
+        </li>
+      </ul>
+
+      <ul class="mgn-col mgn-links">
+        <li>
+          <strong>Moz Solutions</strong>
+        </li>
+        <li>
+          <a href="https://moz.com/agency-solutions">Agency</a>
+        </li>
+        <li>
+          <a href="https://moz.com/enterprise-solutions">Enterprise</a>
+        </li>
+        <li>
+          <a href="https://moz.com/smb-solutions">Small &amp; Mid-Sized Businesses</a>
+        </li>
+      </ul>
+
+      <div class="mgn-col mgn-border-left">
+        <h3>Get the Moz Top&nbsp;10</h3>
+        <p>The 10 most valuable pieces of content we can find for SEOs. Every 2 weeks.</p>
+        <div class="mgn-form-group">
+          <a href="https://moz.com/moztop10" class="mgn-btn">Subscribe today</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</footer>
+  
+    <script charset="utf-8" type="text/javascript" src="https://moz.com/assets/dist/scripts/vendor-ec5a74a4.min.js"></script>
+<script charset="utf-8" type="text/javascript" src="https://moz.com/assets/dist/scripts/moz-fcd6a2ec.min.js"></script>
+
+<script>
+  $('body').append('<div id="icons" style="display:none;"></div>');
+  $('#icons').load('https://moz.com/mozbootstrap/4.4.0/images/icon-defs.svg');
+
+  moz.loadAll(window.mozModules);
+
+</script>
+
+<script type="application/ld+json">{"@context":"http://schema.org","@graph":[{"@type":"WebPage","author":{"@id":"#identity"},"copyrightHolder":{"@id":"#identity"},"copyrightYear":"2017-12-18T12:37:00-08:00","creator":{"@id":"#creator"},"dateModified":"2018-10-19T09:45:55-07:00","datePublished":"2017-12-18T12:37:00-08:00","headline":"Terms of Use","image":{"@type":"ImageObject","url":"https://moz-static.s3.amazonaws.com/cms/_1200x630_fit_center-center_82_none/moz-stairs-homepage-banner-v2.jpg?mtime=20180724120731&focal=64.23%25+49.7%25&tmtime=20191003174027"},"inLanguage":"en-us","mainEntityOfPage":"https://moz.com/terms-of-use","name":"Terms of Use","publisher":{"@id":"#creator"},"url":"https://moz.com/terms-of-use"},{"@id":"#identity","@type":"LocalBusiness","priceRange":"$"},{"@id":"#creator","@type":"Organization"},{"@type":"BreadcrumbList","description":"Breadcrumbs list","itemListElement":[{"@type":"ListItem","item":"https://moz.com/","name":"Homepage","position":1},{"@type":"ListItem","item":"https://moz.com/terms-of-use","name":"Terms of Use","position":2}],"name":"Breadcrumbs"}]}</script></body>
+</html>
