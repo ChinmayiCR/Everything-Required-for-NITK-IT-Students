@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+{% load static %} 
+<html>
+    <head>
+        <link rel="stylesheet" href=
+"https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity=
+"sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+        crossorigin="anonymous">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    </head>
+<style>
+
+body{
+  white-space:pre-wrap;
+}
+#myProgress {
+    width: 90%;
+    background-color: white;
+    margin-left: 5%;
+    
+}
+
+#myBar {
+    width: 1%;
+    height: 30px;
+    background-color: green;
+    color: white;
+}
+.gallery {
+    border: 3px solid #ccc;
+    float: left;
+    width: 300px;
+
+}
+
+.gallery:hover {
+    border: 1px solid #777;
+}
+
+.gallery img {
+    width: 80%;
+    height: auto;
+    margin-left: 8%;
+    margin-top: 8%;
+    margin-bottom: 8%;
+}
+
+.desc {
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+</style>
+<body>
+<nav class="navbar navbar-dark bg-dark">
+  <a class="navbar-brand" href="#">
+        <img src="{% static "images/blockchain.png" %}" width="50" height="50" class="d-inline-block align-top" alt="">
+        Collaborative Anomaly Detection using Blockchain
+  </a>
+</nav>
+<h3 style = "margin-left: 5%; margin-top: 2%;">Device Progress</h3>
+
+<div id="myProgress">
+  <div id="myBar">10%</div>
+</div>
+<button type="button" class="btn btn-outline-success" style="margin-left: 5%; margin-top: 2%;" onclick = move()>Check Progress</button>
+<br>
+
+<div class="gallery" style="margin-top: 1%; margin-left: 25%; margin-bottom: 15px;" >
+    <div class="desc">Event</div>
+    <p> {{event_string}} </p>
+    <div style="height:300px; " ></div>
+</div>
+<div class="gallery" style="margin-top: 1%; margin-bottom: 15px;" >
+    <div class="desc">Log</div>
+    <p> Combined Model : {{ combined_model}} </p>    
+    <p> {{ log_string}} </p>
+    <p> {{ blocks }} </p>
+    
+    <div style="height:300px; " ></div>
+
+</div>
+<script>
+var i = 0;
+function move() {
+  if (i == 0) {
+    i = 1;
+    var elem = document.getElementById("myBar");
+    var width = 10;
+    var id = setInterval(frame, 10);
+    function frame() {
+      if (width >= 100) {
+        clearInterval(id);
+        i = 0;
+      } else {
+        width++;
+        elem.style.width = width + "%";
+        elem.innerHTML = width  + "%";
+      }
+    }
+  }
+}
+</script>
+
+</body>
+</html>
